@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { Message as VercelChatMessage, StreamingTextResponse } from "ai";
+import { Message as ChatMessage, StreamingTextResponse } from "ai";
 
 import { ChatOpenAI } from "langchain/chat_models/openai";
 import { BytesOutputParser } from "langchain/schema/output_parser";
@@ -7,7 +7,7 @@ import { PromptTemplate } from "langchain/prompts";
 
 export const runtime = "edge";
 
-const formatMessage = (message: VercelChatMessage) => {
+const formatMessage = (message: ChatMessage) => {
   return `${message.role}: ${message.content}`;
 };
 
