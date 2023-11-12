@@ -11,7 +11,8 @@
     "prepare:data": "tsx -r dotenv/config ./src/scripts/faiss-prepare-docs.ts",
     "test:sa": "tsx -r dotenv/config ./src/scripts/stage-analyzer-test.ts",
     "test:scu": "tsx -r dotenv/config ./src/scripts/sales-conversation-utterance-test.ts",
-    "test:di": "tsx -r dotenv/config ./src/scripts/data-ingest-test.ts"
+    "test:di": "tsx -r dotenv/config ./src/scripts/data-ingest-test.ts",
+    "test:salesagent": "tsx -r dotenv/config ./src/scripts/sales-agent-test.ts"
   },
   "dependencies": {
     "@radix-ui/react-accordion": "^1.1.2",
