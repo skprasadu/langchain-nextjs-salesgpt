@@ -7,6 +7,7 @@ function Chat() {
   const [inputText, setInputText] = useState('');
   const [chatHistory, setChatHistory] = useState<any>(['Ted Stern: Hello, this is Ted Stern from Sleep Haven. How are you doing today? <END_OF_TURN>']);
   const [response, setResponse] = useState('');
+  const [stepResponse, setStepResponse] = useState('');
 
   const handleInputChange = (e: any) => {
     setInputText(e.target.value);
@@ -19,7 +20,11 @@ function Chat() {
 
     try {
       const response = await axios.post('http://localhost:3000/chat', newChatHistory);
-      setChatHistory(response.data);
+      const {conversationHistory, stageResponse, stepResponse} = response.data;
+
+      setChatHistory(conversationHistory);
+      setResponse(stageResponse)
+      setStepResponse(stepResponse)
     } catch (error) {
       console.error('Error sending message:', error);
     }
@@ -27,7 +32,7 @@ function Chat() {
 
   return (
     <Container>
-      <Typography variant="h4">Chat App</Typography>
+      <Typography variant="h4">Sales GPT Workflow</Typography>
       <div>
         {chatHistory.map((message: any, index: any) => (
           <div key={index}>{message}</div>
@@ -43,7 +48,8 @@ function Chat() {
       <Button variant="contained" color="primary" onClick={handleSendMessage}>
         Send
       </Button>
-      <Typography variant="h6">Response: {response}</Typography>
+      <Typography variant="h6">AI Response: {stepResponse}</Typography>
+      <Typography variant="h6">Stage Response: {response}</Typography>
     </Container>
   );
 }

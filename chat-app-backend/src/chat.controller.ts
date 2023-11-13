@@ -2,6 +2,7 @@
 import { Controller, Post, Body } from '@nestjs/common';
 import { SalesGPT } from './controllers/salesgpt';
 import { llm } from './controllers/llm';
+import { CONVERSATION_STAGES } from './constants/conversation-stages';
 
 const config = {
     salesperson_name: "Ted Stern",
@@ -13,7 +14,7 @@ const config = {
 @Controller('chat')
 export class ChatController {
     @Post()
-    async chat(@Body() chatHistory: string[]): Promise<string[]> {
+    async chat(@Body() chatHistory: string[]): Promise<any> {
         // Implement your chat completion logic here
         // Process chatHistory and return the response
         console.log(chatHistory)
@@ -22,17 +23,22 @@ export class ChatController {
 
         sales_agent.conversation_history = chatHistory;
     
-        const stageResponse = await sales_agent.determine_conversation_stage();
-        const stepResponse = await sales_agent.step();
+        let stageResponse = await sales_agent.determine_conversation_stage();
+        let stepResponse = await sales_agent.step();
 
-        if(chatHistory[chatHistory.length -1].includes('Do I need to use a tool? Yes')){
+        if(chatHistory[chatHistory.length -1].includes('Do I need to use a tool?')){
             console.log('revalidating-------------')
-            const stageResponse = await sales_agent.determine_conversation_stage();
-            const stepResponse = await sales_agent.step();    
+            stageResponse = await sales_agent.determine_conversation_stage();
+            stepResponse = await sales_agent.step();    
         }
+        console.log("****", CONVERSATION_STAGES[stageResponse], stepResponse)
 
-        console.log(sales_agent.conversation_history)
+        //console.log(sales_agent.conversation_history)
 
-        return sales_agent.conversation_history;
+        return { 
+            conversationHistory: sales_agent.conversation_history, 
+            stageResponse: CONVERSATION_STAGES[stageResponse],
+            stepResponse
+        };
     }
 }
