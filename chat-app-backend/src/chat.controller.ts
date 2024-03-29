@@ -23,13 +23,13 @@ export class ChatController {
 
         sales_agent.conversation_history = chatHistory;
     
-        let stageResponse = await sales_agent.determine_conversation_stage();
         let stepResponse = await sales_agent.step();
+        let stageResponse = await sales_agent.determine_conversation_stage();
 
         if(chatHistory[chatHistory.length -1].includes('Do I need to use a tool?')){
             console.log('revalidating-------------')
-            stageResponse = await sales_agent.determine_conversation_stage();
             stepResponse = await sales_agent.step();    
+            stageResponse = await sales_agent.determine_conversation_stage();
         }
         console.log("****", CONVERSATION_STAGES[stageResponse], stepResponse)
 
