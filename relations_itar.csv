@@ -56,7 +56,7 @@ Combined_cycle,subclass_of,Rocket_engine
 pulsejet,subclass_of,Rocket_engine
 ramjet,subclass_of,jet
 scramjet,subclass_of,jet
-Rocket,has part,Rocket_engine
+Rocket,has_part,Rocket_engine
 Rocket_engine,has_part,Air_breathing_engine
 ramjet,subclass_of,Air_breathing_engine
 scramjet,subclass_of,Air_breathing_engine
