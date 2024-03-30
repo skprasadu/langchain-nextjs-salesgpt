@@ -62,8 +62,8 @@ ramjet,subclass_of,Air_breathing_engine
 scramjet,subclass_of,Air_breathing_engine
 missile,subclass_of,Rocket
 model,subclass_of,Rocket_motor
-Rocket,subclass_of,spacecraft
-thruster,part_of,spacecraft
+Rocket,subclass_of,Spacecraft
+thruster,part_of,Spacecraft
 Non_nuclear_warheads,part_of,missile
 Rocket,has_part,kill_vehicle
 Kinetic,subclass_of,kill_vehicle
@@ -106,10 +106,10 @@ Umbilical,subclass_of,electrical_connector
 interstage,subclass_of,electrical_connector
 interstage,part_of,Rocket
 electrical_connector,part_of,system
-spacecraft,subclass_of,satellite
-satellite,subclass_of,spacecraft
+Spacecraft,subclass_of,satellite
+satellite,subclass_of,Spacecraft
 launch_vehicle,part_of,Rocket
 launch_failure_analysis,facet_of,launch_vehicle
 origin_of_the_launch_vehicle,subclass_of,launch_vehicle
 origin_of_the_launch_vehicle,product_or_material_produced,launch_vehicle
-spacecraft_launches,subclass_of,spacecraft
+Spacecraft_launches,subclass_of,Spacecraft
