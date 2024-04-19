@@ -1,0 +1,11 @@
+Node1,RelationType,Node2
+7A003.d.1,SpecifiedBy,7A001
+7A003.d.1,SpecifiedBy,7A002
+7D004,SpecifiedBy,7E004.a.2
+7D004,SpecifiedBy,7E004.b
+7E001,SpecifiedBy,7A994
+7E001,SpecifiedBy,7B994
+7E001,SpecifiedBy,7D001
+7E001,SpecifiedBy,7D002
+7E001,SpecifiedBy,7D003
+7E001,SpecifiedBy,7D005
