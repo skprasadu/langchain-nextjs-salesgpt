@@ -32,6 +32,7 @@ Node1,RelationType,Type,Node2
 7A003.d,ChildOf,direct,7A003.d.1
 7A003.d,ChildOf,direct,7A003.d.2
 7A,ChildOf,direct,7A004
+7A004,ChildOf,direct,7A004.a
 7A004,ChildOf,direct,7A004.b
 7A004.b,ChildOf,direct,7A004.b.1
 7A004.b,ChildOf,direct,7A004.b.2
@@ -212,8 +213,8 @@ Node1,RelationType,Type,Node2
 7E,ChildOf,direct,7.00E+101
 7E,ChildOf,direct,7.00E+102
 7E102,ChildOf,direct,7E102.a
-7E103,ChildOf,direct,7E102.b
-7E104,ChildOf,direct,7E102.c
+7E102,ChildOf,direct,7E102.b
+7E102,ChildOf,direct,7E102.c
 7E,ChildOf,direct,7.00E+104
 7E,ChildOf,direct,7E611
 7E611,ChildOf,direct,7E611.a
