@@ -1,5 +1,5 @@
 Id,Description,ClassificationType
-7,Category 7—Navigation and Avionics,None
+7,Category 7-Navigation and Avionics,None
 7A,A. 'End Items'; 'Equipment'; 'Accessories'; 'Attachments'; 'Parts'; 'Components' and 'Systems',Hardware
 7A001,7A001 Accelerometers as follows (see List of Items Controlled) and 'specially designed' 'components' therefor.,Hardware
 7A001.a, a. Linear accelerometers having any of the following:,Hardware
@@ -46,11 +46,11 @@ Id,Description,ClassificationType
 7A008,7A008 Underwater sonar navigation systems using Doppler velocity or correlation velocity logs integrated with a heading source and having a positioning 'accuracy' of equal to or less (better) than 3% of distance traveled 'Circular Error Probable' ('CEP') and 'specially designed' 'components' therefor.,Hardware
 7A101,7A101 Accelerometers; other than those controlled by 7A001 (see List of Items Controlled); and 'specially designed' 'parts' and 'components' therefor.,Hardware
 7A101.a, a. Linear accelerometers designed for use in inertial navigation systems or in guidance systems of all types; usable in 'missiles' having all of the following characteristics; and 'specially designed' 'parts' and 'components' therefor:,Hardware
-7A101.1,1. ‘Scale factor’ 'repeatability' less (better) than 1250 ppm; and,Hardware
-7A101.2,2. ‘Bias’ 'repeatability' less (better) than 1250 micro g.,Hardware
+7A101.a.1,1. 'Scale factor' 'repeatability' less (better) than 1250 ppm; and,Hardware
+7A101.a.2,2. 'Bias' 'repeatability' less (better) than 1250 micro g.,Hardware
 7A101.b,b. Accelerometers of any type; designed for use in inertial navigation systems or in guidance systems of all types; specified to function at acceleration levels greater than 100 g.,Hardware
 7A102,7A102 Gyros; other than those controlled by 7A002 (see List of Items Controlled); and 'specially designed' 'parts' and 'components' therefor.,Hardware
-7A102.a, a. All types of gyros; usable in rockets; missiles; or unmanned aerial vehicles capable of achieving a 'range' equal to or greater than 300 km; with a rated 'drift rate' ‘stability’ of less than 0.5 degrees (1 sigma or rms) per hour in a 1 g environment.,Hardware
+7A102.a, a. All types of gyros; usable in rockets; missiles; or unmanned aerial vehicles capable of achieving a 'range' equal to or greater than 300 km; with a rated 'drift rate' 'stability' of less than 0.5 degrees (1 sigma or rms) per hour in a 1 g environment.,Hardware
 7A102.b,b. Gyros of any type; designed for use in inertial navigation systems or in guidance systems of all types; specified to function at acceleration levels greater than 100 g.,Hardware
 7A103,7A103 Instrumentation; navigation equipment and systems; other than those controlled by 7A003; and 'specially designed' 'parts' and 'components' therefor; as follows (see List of Items Controlled).,Hardware
 7A103.a, a. Inertial measurement equipment or systems using accelerometers or gyros controlled by 7A001; 7A002; 7A101 or 7A102; and 'specially designed' 'parts' and 'components' therefor;,Hardware
@@ -65,8 +65,8 @@ Id,Description,ClassificationType
 7A105.b.3,b.3. Being 'specially designed' to employ anti-jam features (e.g.; null steering antenna or electronically steerable antenna) to function in an environment of active or passive countermeasures.,Hardware
 7A106,7A106 Altimeters; other than those controlled by 7A006; of radar or laser radar type; designed or modified for use in 'missiles'. (These items are 'subject to the ITAR.' See 22 CFR parts 120 through 130.),Hardware
 7A107,7A107 Three axis magnetic heading sensors having all of the following characteristics (see List of Items Controlled); and 'specially designed' 'parts' and 'components' therefor.,Hardware
-7A107.a, a. Internal tilt compensation in pitch (±90 degrees) and roll (±180 degrees) axes;,Hardware
-7A107.b,b. Azimuthal accuracy better (less) than 0.5 degrees rms at latitudes of ±80 degrees; referenced to local magnetic field; ,Hardware
+7A107.a, a. Internal tilt compensation in pitch (+/-90 degrees) and roll (+/-180 degrees) axes;,Hardware
+7A107.b,b. Azimuthal accuracy better (less) than 0.5 degrees rms at latitudes of +/-80 degrees; referenced to local magnetic field; ,Hardware
 7A107.c,c. Designed or modified to be integrated with flight control and navigation systems.,Hardware
 7A115,7A115 Passive sensors for determining bearing to specific electromagnetic sources (direction finding equipment) or terrain characteristics; designed or modified for use in 'missiles'. (These items are 'subject to the ITAR.' See 22 CFR parts 120 through 130.),Hardware
 7A116,7A116 Flight control systems and 'parts' and 'components'; as follows (see List of Items Controlled).,Hardware
@@ -204,7 +204,7 @@ Id,Description,ClassificationType
 7E004.b.7.b.4,b.7.b.4. Enables 'aircraft' to have stable controlled flight; other than during take-off or landing; at greater than 18 degrees angle of attack; 15 degrees side slip; 15 degrees/second pitch or yaw rate; or 90 degrees/second roll rate;,Technical Data
 7E004.b.8,b.8. 'Technology' 'required' for deriving the functional requirements of 'fly-by-wire systems' to achieve all of the following:,Technical Data
 7E004.b.8.a,b.8.a. No loss of control of the 'aircraft' in the event of a consecutive sequence of any two individual faults within the 'fly-by-wire system'; ,Technical Data
-7E004.b.8.b,b.8.b. Probability of loss of control of the 'aircraft' being less (better) than 1 × 10 failures per flight hour;,Technical Data
+7E004.b.8.b,b.8.b. Probability of loss of control of the 'aircraft' being less (better) than 1 x 10 failures per flight hour;,Technical Data
 7E004.c,c. 'Technology' for the 'development' of helicopter systems; as follows:,Technical Data
 7E004.c.1,c.1. Multi-axis fly-by-wire or fly-by-light controllers; which combine the functions of at least two of the following into one controlling element:,Technical Data
 7E004.c.1.a,c.1.a. Collective controls;,Technical Data
