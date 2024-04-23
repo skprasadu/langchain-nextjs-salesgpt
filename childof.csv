@@ -180,6 +180,7 @@ Node1,RelationType,Type,Node2
 7E,ChildOf,direct,7E002
 7E,ChildOf,direct,7E003
 7E,ChildOf,direct,7E004
+7E004,ChildOf,direct,7E004.a
 7E004.a,ChildOf,direct,7E004.a.1
 7E004.a,ChildOf,direct,7E004.a.2
 7E004.a,ChildOf,direct,7E004.a.3
