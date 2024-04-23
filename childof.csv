@@ -2,6 +2,7 @@ Node1,RelationType,Type,Node2
 0,ChildOf,direct,7
 7,ChildOf,direct,7A
 7A,ChildOf,direct,7A001
+7A001,ChildOf,direct,7A001.a
 7A001.a,ChildOf,direct,7A001.a.1
 7A001.a.1,ChildOf,or,7A001.a.1.a
 7A001.a.1,ChildOf,or,7A001.a.1.b
