@@ -1,4 +1,6 @@
 Id,Description
+9,"Category 9-Aerospace and Propulsion"
+9A,"Aerospace and Propulsion - A. ""End Items"", ""Equipment"", ""Accessories"", ""Attachments"", ""Parts"", ""Components"" and ""Systems"""
 9A002,Marine gas turbine engines
 9A004,Terrestrial equipment
 9A010,"Launch Vehicles, Launch Vehicle Propulsion Systems or Spacecraft"
@@ -19,6 +21,7 @@ Id,Description
 9A990-1,Diesel engines
 9A990-2,Off highway wheel tractors
 9A991,Aero gas turbine engines
+9B,"Aerospace and Propulsion - B. ""Test"", ""Inspection"" and ""Production Equipment"""
 9B001,Casting tooling
 9B003,Equipment
 9B004,"Tools, dies or fixtures"
@@ -32,7 +35,10 @@ Id,Description
 9B515.b,Environmental test chambers
 9B515,"Test, inspection, and production equipment"
 9C110,Resin impregnated fiber prepregs and metal coated fiber preforms
+9D,Software
 9D004,Software
+9E,"E. ""Technology"""
+9E003,"9E003 Other ""technology"" as follows (see List of Items Controlled)."
 9E003.a.1,"Gas turbine engine parts, components or systems"
 9E003.f,Parts or components for high output diesel engines
 9E003.h,Gas turbine engine FADEC systems
@@ -141,7 +147,7 @@ XV.p,Space-qualified star tracker or star sensor
 3,35% of the maximum continuous power
 4,"Telemetry data processing of frame synchronization and error corrections, for monitoring of operational status (also known as health and safe status) of the ""spacecraft bus"""
 5,"Command data processing for formatting command data being sent to the ""spacecraft"" to control the ""spacecraft bus"""
-6,Verification of operational procedures of “spacecraft”
+6,Verification of operational procedures of "spacecraft"
 7,Metal matrix composites
 8,Ceramic matrix composite
 9,Fibrous or filamentary materials
