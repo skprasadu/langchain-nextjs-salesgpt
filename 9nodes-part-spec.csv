@@ -1,0 +1,184 @@
+Id,Description
+9A002.p1,Marine gas turbine engines
+9A002.a.p1,Maximum continuous power
+9A002.b.p1,Corrected specific fuel consumption
+9A004.p1,Terrestrial equipment
+9A004.f.1.p1,Telemetry and telecommand equipment
+9A004.f.2.p1,Simulators
+9A010.p1,"Launch Vehicles, Launch Vehicle Propulsion Systems or Spacecraft"
+9A010.a.p1,"Parts, components and structures exceeding 10 kg"
+9A010.b.p1,"Parts, components and structures for launch vehicle propulsion systems"
+9A010.c.p1,Structural components and isolation systems
+9A010.d.p1,Pulsed liquid rocket engines
+9A012.p1,Unmanned Aerial Vehicles (UAVs) or unmanned airships
+9A012.a.p1,UAVs or unmanned airships with specific endurance
+9A012.b.p1,UAVs or unmanned airships with specific wind gust resistance
+9A101.p1,Turbojet and Turbofan Engines
+9A101.a.p1,Engines with specific characteristics
+9A101.b.p1,Engines for missiles or UAVs
+9A106.p1,"Systems, parts or components usable in missiles"
+9A106.a.p1,"Liquid, slurry and gel propellant (including oxidizers) control systems"
+9A106.e.p1,Flight control servo valves
+9A108.p1,Solid rocket propulsion
+9A108.a.p1,Parts and components
+9A111.p1,Pulse jet engines
+9A111.a.p1,Usable in rockets
+9A111.b.p1,Usable in missiles
+9A111.c.p1,Usable in unmanned aerial vehicles
+9A115.p1,"Apparatus, devices and vehicles"
+9A115.a.p1,"Transport, handling, control, activation and launching systems"
+9A116.p1,Reentry vehicles
+9A118.p1,Devices to regulate combustion
+9A120.p1,Complete unmanned aerial vehicles
+9A120.a.p1,Aerosol dispensing system/mechanism
+9A515.a.p1,Electro-optical remote sensing capabilities
+9A604.p1,Thermal batteries
+9A604.a.p1,Thermal batteries for systems controlled under USML Category IV
+9A604.f.3.p1,Solid propellant rocket motors or hybrid rocket motors
+9A604.f.4.p1,Liquid propellant rocket engines
+9A604.f.5.p1,Thrust vector control systems
+9A604.f.6.p1,Re-entry vehicles or warhead heat shields
+9A604.f.7.p1,"Safing, arming, fuzing, and firing components"
+9A110.p1,"Composite structures, laminates and manufactures"
+9A610.p1,Military Aircraft
+9A610.b.p1,L-100 aircraft
+9A610.t.p1,Composite structures for unmanned aerial vehicles
+9A610.u.p1,Apparatus and devices for UAVs
+9A610.v.p1,Radar altimeters for UAVs
+9A620.p1,Cryogenic Equipment
+9A990.p1,"Diesel engines for trucks, tractors, and automotive applications"
+9A990.b.p1,Off highway wheel tractors
+9A990.c.p1,On-Highway tractors with single or tandem rear axles and specially designed major components
+9A991.c.p1,Aero gas turbine engines
+9B001.b.p1,Casting tooling
+9B001.b.1.p1,Cores
+9B001.b.2.p1,Shells (moulds)
+9B001.b.3.p1,Combined core and shell (mould) units
+9B003.p1,Gas turbine brush seals
+9B004.p1,"Solid state joining of superalloy, titanium or intermetallic airfoil-to-disk combinations"
+9B005.p1,"On-line (real time) control systems, instrumentation (including sensors) or automated data acquisition and processing equipment"
+9B005.a.p1,Wind tunnels designed for speeds of Mach 1.2 or more
+9B005.b.p1,Devices for simulating flow-environments at speeds exceeding Mach 5
+9B005.b.p2,Shock tunnels
+9B005.c.p1,"Wind tunnels or devices, other than two-dimensional sections, capable of simulating Reynolds number flows exceeding 25 × 10"
+9B007.p1,Equipment for inspecting the integrity of rocket motors
+9B009.p1,Gas turbine engine powder metallurgy rotor parts
+9B104.p1,Aerothermodynamic test facilities
+9B104.p2,"Usable for rockets, missiles, or unmanned aerial vehicles"
+9B104.p3,Electrical power supply
+9B104.p4,Gas supply total pressure
+9B106.p1,"Environmental chambers usable for rockets, missiles, or unmanned aerial vehicles"
+9B106.a.p1,Environmental chambers simulating flight conditions
+9B106.a.2.p2,Environmental chambers Temperature range from below ?50 �C to above 125 �C;
+9B106.a.1.p1,"Environmental chambers Altitude equal to or greater than 15,000 m"
+9B117.p1,Test Benches and Test Stands
+9B117.a.p1,Capacity to handle solid or liquid propellant rocket motors or rocket engines
+9B117.b.p1,Capability of measuring axial thrust components
+9B515.b.p1,Environmental test chambers
+9B610.c.p1,Production facilities for UAVs or drones
+9C110.p1,Resin impregnated fiber prepregs and metal coated fiber preforms
+9C110.p2,"Composite structures, laminates and manufactures specified in 9A110"
+9B991.p1,"Gas turbine blades, vanes or tip shrouds"
+9E003.a.2.p1,Combustors
+9E003.a.3.c.p1,"Stators, vanes, blades, tip seals (shrouds), rotating blings, rotating blisks or splitter ducts"
+9E003.a.4.p1,"Uncooled turbine blades, vanes or tip shrouds"
+9E003.a.5.p1,"Cooled turbine blades, vanes or tip-shrouds"
+9E003.a.11.p1,Fan blades
+9E003.f.1.p1,Engine systems
+9E003.f.2.p1,Turbocharger systems
+9E003.f.3.p1,Fuel injection systems
+9E003.f.p1,Parts or components for high output diesel engines
+9E003.h.p1,Gas turbine engine FADEC systems
+9E003.h.2.p1,Control and diagnostic parts or components
+9E003.h.3.p1,Control law algorithms
+9E003.i.p1,Adjustable flow path systems
+9E610.b.6.p1,Fatigue life monitoring systems
+9D610.b.7.p1,"Landing gear, and parts and components"
+9D610.b.14.p1,Self-sealing fuel bladders
+9A620.p1,Cryogenic Equipment
+9A620.p2,Superconductive Equipment
+XV.p1,"Spacecraft parts, components, accessories, attachments, equipment, or systems"
+XV.a.7.p1,Electro-optical remote sensing capabilities
+XV.a.8.p1,Radar remote sensing capabilities
+XV.e.1.p1,Antenna systems
+XV.e.2.p1,Space-qualified optics
+XV.e.3.p1,Space-qualified focal plane arrays (FPA)
+XV.e.10.p1,Attitude determination and control systems
+XV.e.12.p1,Thrusters
+XV.e.15.p1,Space-qualified oscillator for radar
+XV.e.16.p1,Space-qualified star tracker or star sensor
+1,"24,245 kW or more"
+2,not exceeding 0.219 kg/kWh
+4,"Telemetry data processing of frame synchronization and error corrections, for monitoring of operational status (also known as health and safe status) of the ""spacecraft bus"""
+6,Verification of operational procedures of “spacecraft”
+7,Metal matrix composites
+9,Fibrous or filamentary materials
+12,Control actively the dynamic response or distortion of spacecraft structures
+13,equal to or more than 1 kN/kg
+15,Greater than or equal to 30 minutes but less than 1 hour
+17,Equal to or exceeding 46.3 km/h (25 knots)
+19,"> 400 N and < 8,890 N (achieved un-installed)"
+23,>= 300 km
+24,greater than 10 g rms between 20 Hz and 2000 Hz
+25,greater than 10g rms over the entire range between 20Hz and 2 kHz
+26,300 km or greater
+27,>= 300 km
+28,>= 300 km
+29,>= 300 km
+30,equal to or greater than 300 km
+32,> 20 liters
+33,> 0.35m and <= 0.50m
+34,>= 300 km
+37,>= 8.41 x 10 pow Ns
+38,>= 8.41 x 10 pow Ns
+39,>= 500 kg
+41,>= 500 kg
+43,>= 500 kg
+45,< 2013
+46,>= 300 km
+47,>= 300 km
+48,>= 500 kg
+57,"9 mt (20,000 lbs) or more"
+58,"9 mt per axel (20,000 lbs.) or greater"
+,
+,
+65,"manufacturing gas turbine engine blades, vanes or tip shrouds"
+67,"manufacturing gas turbine engine blades, vanes or tip shrouds"
+69,"manufacturing gas turbine engine blades, vanes or tip shrouds"
+75,Mach 1.2 or more
+76,Exceeding Mach 5
+,
+82,Exceeding 25 x 10 pow 6
+103,"equal to or greater than 15,000 m"
+104,from below -50 deg C to above 125 deg C
+105,"equal to or greater than 10 g rms, measured 'bare table,' between 20 Hz and 2 kHz"
+109,> 68 kN
+110,Simultaneous measurement of three components
+,
+112,Range equal to or greater than 300 km
+,
+,
+125,"> 1,883K (1,610 deg C)"
+128,compressors or fans
+129,">= 1,373 K (1,100 °C)"
+130,">= 1,693 K (1,420 °C)"
+131,>= 20% of the total volume
+134,"['Cylinder liners', 'Pistons', 'Cylinder heads', 'Exhaust ports', 'Turbochargers', 'Valve guides', 'Valve assemblies', 'Insulated fuel injectors']"
+135,4:1 or higher
+138,> 230 mm
+,
+,
+,
+142,regulate engine thrust or shaft power
+,
+146,relate actual usage to the analytical or design spectrum and to compute amount of fatigue life
+,
+172,< 40
+185,>= 1 GHz and <= 10 GHz
+187,> 25 meters
+188,> 0.35m
+190,> 900nm
+191,"<= 5 meters from LEO, <= 30 meters from MEO, <= 150 meters from GEO, <= 225 meters from HEO"
+192,> 150 lbf
+193,< -120 dBc/Hz + (20 log10(RF) (in GHz))
+194,<= 1 arcsec (1-Sigma) per star coordinate
