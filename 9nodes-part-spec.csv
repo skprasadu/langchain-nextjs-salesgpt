@@ -69,7 +69,7 @@ Id,Description
 9B104.p4,Gas supply total pressure
 9B106.p1,"Environmental chambers usable for rockets, missiles, or unmanned aerial vehicles"
 9B106.a.p1,Environmental chambers simulating flight conditions
-9B106.a.2.p2,Environmental chambers Temperature range from below ?50 °C to above 125 °C;
+9B106.a.2.p2,Environmental chambers Temperature range from below ?50 ï¿½C to above 125 ï¿½C;
 9B106.a.1.p1,"Environmental chambers Altitude equal to or greater than 15,000 m"
 9B117.p1,Test Benches and Test Stands
 9B117.a.p1,Capacity to handle solid or liquid propellant rocket motors or rocket engines
@@ -140,24 +140,18 @@ XV.e.16.p1,Space-qualified star tracker or star sensor
 48,>= 500 kg
 57,"9 mt (20,000 lbs) or more"
 58,"9 mt per axel (20,000 lbs.) or greater"
-,
-,
 65,"manufacturing gas turbine engine blades, vanes or tip shrouds"
 67,"manufacturing gas turbine engine blades, vanes or tip shrouds"
 69,"manufacturing gas turbine engine blades, vanes or tip shrouds"
 75,Mach 1.2 or more
 76,Exceeding Mach 5
-,
 82,Exceeding 25 x 10 pow 6
 103,"equal to or greater than 15,000 m"
 104,from below -50 deg C to above 125 deg C
 105,"equal to or greater than 10 g rms, measured 'bare table,' between 20 Hz and 2 kHz"
 109,> 68 kN
-110,Simultaneous measurement of three components
-,
+110,Simultaneous measurement of three components,
 112,Range equal to or greater than 300 km
-,
-,
 125,"> 1,883K (1,610 deg C)"
 128,compressors or fans
 129,">= 1,373 K (1,100 Â°C)"
@@ -166,13 +160,8 @@ XV.e.16.p1,Space-qualified star tracker or star sensor
 134,"['Cylinder liners', 'Pistons', 'Cylinder heads', 'Exhaust ports', 'Turbochargers', 'Valve guides', 'Valve assemblies', 'Insulated fuel injectors']"
 135,4:1 or higher
 138,> 230 mm
-,
-,
-,
 142,regulate engine thrust or shaft power
-,
 146,relate actual usage to the analytical or design spectrum and to compute amount of fatigue life
-,
 172,< 40
 185,>= 1 GHz and <= 10 GHz
 187,> 25 meters
