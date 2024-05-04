@@ -3,7 +3,6 @@ Id,Description
 9A,"A. 'End Items', 'Equipment', 'Accessories', 'Attachments', 'Parts', 'Components' and 'Systems'"
 9A001,9A001 Aero gas turbine engines having any of the following (see List of Items Controlled).
 9A001.a,"a. Incorporating any of the 'technologies' controlled by 9E003.a, 9E003.h, or 9E003.i;"
-9A001.b,"b. [Reserved]"
 9A002,"9A002 'Marine gas turbine engines' designed to use liquid fuel and having all of the following (see List of Items Controlled), and 'specially designed' assemblies and 'components' therefor."
 9A002.a," a. Maximum continuous power when operating in 'steady state mode' at standard reference conditions specified by ISO 3977-2:1997 (or national equivalent) of 24,245 kW or more; "
 9A002.b,"b. 'Corrected specific fuel consumption' not exceeding 0.219 kg/kWh at 35% of the maximum continuous power when using liquid fuel."
@@ -26,18 +25,6 @@ Id,Description
 9A004.f.2,"f.2. Simulators 'specially designed' for `verification of operational procedures' of 'spacecraft'."
 9A004.g,"g. 'Aircraft' 'specially designed' or modified to be air-launch platforms for space launch vehicles or 'sub-orbital craft'."
 9A004.h,"h. 'Sub-orbital craft'."
-9A004.i,i. [Reserved]
-9A004.j,j. [Reserved]
-9A004.k,k. [Reserved]
-9A004.l,l. [Reserved]
-9A004.m,m. [Reserved]
-9A004.n,n. [Reserved]
-9A004.o,o. [Reserved]
-9A004.p,p. [Reserved]
-9A004.q,q. [Reserved]
-9A004.r,r. [Reserved]
-9A004.s,s. [Reserved]
-9A004.t,t. [Reserved]
 9A004.u,"u. The James Webb Space Telescope (JWST) being developed, launched, and operated under the supervision of the U.S. National Aeronautics and Space Administration (NASA)."
 9A004.v,"v. 'Parts,' 'components,' 'accessories' and 'attachments' that are 'specially designed' for the James Webb Space Telescope and that are "
 9A004.v.1,"v.1. Enumerated or controlled in the USML;"
@@ -77,8 +64,6 @@ Id,Description
 9A012.a.1.b,a.1.b. Designed to take-off and have stable controlled flight in wind gusts equal to or exceeding 46.3 km/h (25 knots); 
 9A012.a.2,"a.2. A maximum 'endurance' of 1 hour or greater;"
 9A012.b,"b. Related equipment and 'components', as follows:"
-9A012.b.1,"b.1 [Reserved]"
-9A012.b.2,"b.2. [Reserved]"
 9A012.b.3,"b.3. Equipment or 'components' 'specially designed' to convert a manned 'aircraft' or a manned 'airship' to a 'UAV' or unmanned 'airship', controlled by 9A012.a;"
 9A012.b.4,"b.4. Air breathing reciprocating or rotary internal combustion type engines, 'specially designed' or modified to propel 'UAVs' or unmanned 'airships', at altitudes above 15,240 meters (50,000 feet)."
 9A018,9A018 Equipment on the Wassenaar Arrangement Munitions List.
@@ -124,7 +109,6 @@ Id,Description
 9A515.a.4,"a.4. Provide space-based logistics, assembly, or servicing of another 'spacecraft'; "
 9A515.a.5,"a.5. Are not described in ECCN 9A515.a.1, .a.2, .a.3 or .a.4."
 9A515.b,"b. Ground control systems and training simulators 'specially designed' for telemetry, tracking, and control of the 'spacecraft' controlled in paragraphs 9A004.u or 9A515.a."
-9A515.c,"c. [Reserved]"
 9A515.d,"d. Microelectronic circuits ( integrated circuits, microcircuits, or MOSFETs) and discrete electronic components rated, certified, or otherwise specified or described as meeting or exceeding all the following characteristics and that are 'specially designed' for defense articles, '600 series' items, or items controlled by ECCNs 9A004.v or 9A515:"
 9A515.d.1,"d.1. A total dose of 5 ' 10 Rads (Si) (5 ' 10 Gy (Si));"
 9A515.d.2,"d.2. A dose rate upset threshold of 5 ' 10 Rads (Si)/sec (5 ' 10 Gy (Si)/sec);"
@@ -140,21 +124,6 @@ Id,Description
 9A515.g.2,"g.2. Optical bench assemblies 'specially designed' for ECCN 9A515.a.1, 9A515.a.2, 9A515.a.3, or 9A515.a.4 'spacecraft;' "
 9A515.g.3,"g.3. Primary, secondary, or hosted payloads that perform a function of ECCN 9A515.a.1, 9A515.a.2, 9A515.a.3, or 9A515.a.4 'spacecraft.'"
 9A515.h,"h. Spacecraft thrusters using bi-propellants or mono-propellants that provide thrust equal to or less than 150 lbf ( 667.23 N) vacuum thrust."
-9A515.i,i. [Reserved]
-9A515.j,j. [Reserved]
-9A515.k,k. [Reserved]
-9A515.l,l. [Reserved]
-9A515.m,m. [Reserved]
-9A515.n,n. [Reserved]
-9A515.o,o. [Reserved]
-9A515.p,p. [Reserved]
-9A515.q,q. [Reserved]
-9A515.r,r. [Reserved]
-9A515.s,s. [Reserved]
-9A515.t,t. [Reserved]
-9A515.u,u. [Reserved]
-9A515.v,v. [Reserved]
-9A515.w,w. [Reserved]
 9A515.x,"x. 'Parts,' 'components,' 'accessories' and 'attachments' that are 'specially designed' for defense articles controlled by USML Category XV or items controlled by 9A515, and that are NOT:"
 9A515.x.1,"x.1. Enumerated or controlled in the USML or elsewhere within ECCNs 9A515 or 9A004;"
 9A515.x.2,"x.2. Microelectronic circuits and discrete electronic components;"
@@ -184,23 +153,6 @@ Id,Description
 9A604.f.5,"f.5. Thrust vector control systems usable in rockets, space launch vehicles (SLVs), and missiles capable of delivering at least a 500 kg payload to a range of at least 300 km."
 9A604.f.6,"f.6. Re-entry vehicles or warhead heat shields usable in rockets, SLVs, and missiles capable of delivering at least a 500 kg payload to a range of at least 300 km."
 9A604.f.7,"f.7. Safing, arming, fuzing, and firing components usable in rockets, SLVs, and missiles capable of delivering at least a 500 kg payload to a range of at least 300 km."
-9A604.g,g. [Reserved]
-9A604.h,h. [Reserved]
-9A604.i,i. [Reserved]
-9A604.j,j. [Reserved]
-9A604.k,k. [Reserved]
-9A604.l,l. [Reserved]
-9A604.m,m. [Reserved]
-9A604.n,n. [Reserved]
-9A604.o,o. [Reserved]
-9A604.p,p. [Reserved]
-9A604.q,q. [Reserved]
-9A604.r,r. [Reserved]
-9A604.s,s. [Reserved]
-9A604.t,t. [Reserved]
-9A604.u,u. [Reserved]
-9A604.v,v. [Reserved]
-9A604.w,w. [Reserved]
 9A604.x,"x. 'Parts,' 'components,' 'accessories,' and 'attachments' that are 'specially designed' for a commodity subject to control in paragraphs .a through .d of this ECCN, or a defense article controlled under USML Category IV, and not specified elsewhere on the USML."
 9A610,"9A610 Military Aircraft and Related Commodities, Other Than Those Enumerated in 9A991.a (See List of Items Controlled)."
 9A610.a,"a. 'Military Aircraft' 'specially designed' for a military use that are not enumerated in USML paragraph VIII(a)."
@@ -212,15 +164,6 @@ Id,Description
 9A610.h,"h. Parachutes, paragliders, complete parachute canopies, harnesses, platforms, electronic release mechanisms, 'specially designed' for use with aircraft controlled by either USML paragraph VIII(a) or ECCN 9A610.a, and 'equipment' 'specially designed' for military high altitude parachutists, such as suits, special helmets, breathing systems, and navigation equipment."
 9A610.i,"i. Controlled opening equipment or automatic piloting systems, designed for parachuted loads."
 9A610.j,"j. Ground effect machines (GEMS), including surface effect machines and air cushion vehicles, 'specially designed' for use by a military."
-9A610.k,k. [Reserved]
-9A610.l,l. [Reserved]
-9A610.m,m. [Reserved]
-9A610.n,n. [Reserved]
-9A610.o,o. [Reserved]
-9A610.p,p. [Reserved]
-9A610.q,q. [Reserved]
-9A610.r,r. [Reserved]
-9A610.s,s. [Reserved]
 9A610.t,"t. Composite structures, laminates, and manufactures thereof 'specially designed' for unmanned aerial vehicles controlled under USML Category VIII(a) with a range equal to or greater than 300 km."
 9A610.u,"u. Apparatus and devices 'specially designed' for the handling, control, activation and non-ship-based launching of UAVs controlled by either USML paragraph VIII(a) or ECCN 9A610.a, and capable of a range equal to or greater than 300 km."
 9A610.v,"v. Radar altimeters designed or modified for use in UAVs controlled by either USML paragraph VIII(a) or ECCN 9A610.a., and capable of delivering at least 500 kilograms payload to a range of at least 300 km."
@@ -267,23 +210,6 @@ Id,Description
 9A619.d,"d. If 'specially designed' for gas turbine engines controlled in 9A619.a, uncooled turbine blades, vanes, disks, and tip shrouds;"
 9A619.e,"e. If 'specially designed' for gas turbine engines controlled in 9A619.a, combustor cowls, diffusers, domes, and shells;"
 9A619.f,"f. Engine monitoring systems ( those that conduct prognostics, diagnostics, and monitor health) 'specially designed' for gas turbine engines and components controlled in this ECCN 9A619."
-9A619.g,g. [Reserved]
-9A619.h,h. [Reserved]
-9A619.i,i. [Reserved]
-9A619.j,j. [Reserved]
-9A619.k,k. [Reserved]
-9A619.l,l. [Reserved]
-9A619.m,m. [Reserved]
-9A619.n,n. [Reserved]
-9A619.o,o. [Reserved]
-9A619.p,p. [Reserved]
-9A619.q,q. [Reserved]
-9A619.r,r. [Reserved]
-9A619.s,s. [Reserved]
-9A619.t,t. [Reserved]
-9A619.u,u. [Reserved]
-9A619.v,v. [Reserved]
-9A619.w,w. [Reserved]
 9A619.x,"x. Parts,' 'components,' 'accessories,' and 'attachments' that are 'specially designed' for a commodity controlled by this ECCN 9A619 (other than ECCN 9A619.c) or for a defense article enumerated in USML Category XIX and not specified elsewhere on the USML or in ECCN 3A611.y, 9A610.y or 9A619.y."
 9A619.y,"y. Specific 'parts,' 'components,' 'accessories,' and 'attachments' 'specially designed' for a commodity subject to control in this entry, ECCN 9A610, or for a defense article in USML Category VIII or Category XIX and not elsewhere specified on the USML or in the CCL, and other commodities, as follows, and 'parts,' 'components,' 'accessories,' and 'attachments' 'specially designed' therefor:"
 9A619.y.1,"y.1. Oil tank and reservoirs;"
@@ -298,27 +224,6 @@ Id,Description
 9A620,"9A620 Cryogenic and 'superconductive' equipment, as follows (see list of items controlled)."
 9A620.a," a. Equipment 'specially designed' to be installed in a vehicle for military ground, marine, airborne, or space applications, and capable of operating while in motion and of producing or maintaining temperatures below 103 K (?170 'C)."
 9A620.b,"b. 'Superconductive' electrical equipment (rotating machinery and transformers) 'specially designed' to be installed in a vehicle for military ground, marine, airborne, or space applications, and capable of operating while in motion."
-9A620.c,c. [Reserved]
-9A620.d,d. [Reserved]
-9A620.e,e. [Reserved]
-9A620.f,f. [Reserved]
-9A620.g,g. [Reserved]
-9A620.h,h. [Reserved]
-9A620.i,i. [Reserved]
-9A620.j,j. [Reserved]
-9A620.k,k. [Reserved]
-9A620.l,l. [Reserved]
-9A620.m,m. [Reserved]
-9A620.n,n. [Reserved]
-9A620.o,o. [Reserved]
-9A620.p,p. [Reserved]
-9A620.q,q. [Reserved]
-9A620.r,r. [Reserved]
-9A620.s,s. [Reserved]
-9A620.t,t. [Reserved]
-9A620.u,u. [Reserved]
-9A620.v,v. [Reserved]
-9A620.w,w. [Reserved]
 9A620.x,"x. 'Parts,' 'components,' 'accessories' and 'attachments' that are 'specially designed' for a commodity controlled by ECCN 9A620."
 9A980,"9A980 Nonmilitary mobile crime science laboratories; and accessories, n.e.s."
 9A990,"9A990 Diesel engines, n.e.s., and tractors and 'specially designed' 'parts' and 'components' therefor, n.e.s. (see List of Items Controlled)."
@@ -387,25 +292,6 @@ Id,Description
 9B604.b,"b. Test, calibration, and alignment equipment 'specially designed' for items that are controlled by USML Category IV(h)(28)."
 9B604.c,"c. Test, inspection, and other production 'equipment' that is 'specially designed' for the 'development,' 'production,' repair, overhaul, or refurbishing of commodities described in ECCN 9A604, or defense articles controlled under USML Category IV, and not specified in ECCN 0B604.a or in ECCN 9B604.a, .b, or .d."
 9B604.d,"d. 'Specially designed' 'production facilities' or production 'equipment' for systems, sub-systems, and 'components' controlled by USML Category IV(d)(1), (d)(7), (h)(1), (h)(4), (h)(6), (h)(7), (h)(8), (h)(9), (h)(11), (h)(20), (h)(21), (h)(26), or (h)(28)."
-9B604.e,e. [Reserved]
-9B604.f,f. [Reserved]
-9B604.g,g. [Reserved]
-9B604.h,h. [Reserved]
-9B604.i,i. [Reserved]
-9B604.j,j. [Reserved]
-9B604.k,k. [Reserved]
-9B604.l,l. [Reserved]
-9B604.m,m. [Reserved]
-9B604.n,n. [Reserved]
-9B604.o,o. [Reserved]
-9B604.p,p. [Reserved]
-9B604.q,q. [Reserved]
-9B604.r,r. [Reserved]
-9B604.s,s. [Reserved]
-9B604.t,t. [Reserved]
-9B604.u,u. [Reserved]
-9B604.v,v. [Reserved]
-9B604.w,w. [Reserved]
 9B604.x,"x. 'Parts,' 'components,' 'accessories,' and 'attachments' that are 'specially designed' for a commodity subject to control in paragraph .a or .b of this ECCN."
 9B610,"9B610 Test, inspection, and production 'equipment' and related commodities 'specially designed' for the 'development' or 'production' of commodities enumerated or otherwise described in ECCN 9A610 or USML Category VIII (see List of Items Controlled)."
 9B610.a," a. Test, inspection, and production 'equipment' 'specially designed' for the 'production,' 'development,' operation, installation, maintenance, repair, overhaul, or refurbishing of commodities enumerated or otherwise described in ECCN 9A610 (except 9A610.y) or USML Category VIII, and 'parts,' 'components,' 'accessories,' and 'attachments' 'specially designed' therefor."
@@ -414,32 +300,9 @@ Id,Description
 9B619,"9B619 Test, inspection, and production 'equipment' and related commodities 'specially designed' for the 'development' or 'production' of commodities enumerated or otherwise described in ECCN 9A619 or USML Category XIX (see List of Items Controlled)."
 9B619.a,"a. Test, inspection, and production 'equipment' 'specially designed' for the 'production,' 'development,' operation, installation, maintenance, repair, overhaul, or refurbishing of commodities enumerated or otherwise described in ECCN 9A619 (except for 9A619.y) or in USML Category XIX, and 'parts,' 'components,' 'accessories,' and 'attachments' 'specially designed' therefor."
 9B619.b,"b. Equipment, cells, or stands 'specially designed' for testing, analysis and fault isolation of engines, 'systems,' 'components,' 'parts,' 'accessories,' and 'attachments' enumerated or otherwise described in ECCN 9A619 (except for 9A619.y) on the CCL or in Category XIX on the USML."
-9B619.c,c. [Reserved]
-9B619.d,d. [Reserved]
-9B619.e,e. [Reserved]
-9B619.f,f. [Reserved]
-9B619.g,g. [Reserved]
-9B619.h,h. [Reserved]
-9B619.i,i. [Reserved]
-9B619.j,j. [Reserved]
-9B619.k,k. [Reserved]
-9B619.l,l. [Reserved]
-9B619.m,m. [Reserved]
-9B619.n,n. [Reserved]
-9B619.o,o. [Reserved]
-9B619.p,p. [Reserved]
-9B619.q,q. [Reserved]
-9B619.r,r. [Reserved]
-9B619.s,s. [Reserved]
-9B619.t,t. [Reserved]
-9B619.u,u. [Reserved]
-9B619.v,v. [Reserved]
-9B619.w,w. [Reserved]
-9B619.x,x. [Reserved]
 9B619.y,"y. Bearing pullers 'specially designed' for the 'production' or 'development' of commodities enumerated or otherwise described in ECCN 9A619 (except for 9A619.y) or USML Category XIX and 'parts,' 'components,' 'accessories,' and 'attachments' 'specially designed' therefor."
 9B620,"9B620 Test, inspection, and production commodities for cryogenic and 'superconductive' equipment (see List of Items controlled)."
 9B620.a," a. Test, inspection, and production end items and equipment 'specially designed' for the 'development,' 'production,' repair, overhaul or refurbishing of items controlled in ECCN 9A620."
-9B620.b,"b. [Reserved]"
 9B990,"9B990 Vibration test equipment and 'specially designed' 'parts' and 'components,' n.e.s."
 9B991,"9B991 'Specially designed' 'equipment,' tooling or fixtures, not controlled by 9B001, for manufacturing or measuring gas turbine blades, vanes or tip shroud castings, as follows (see List of Items Controlled)."
 9B991.a," a. Automated equipment using non-mechanical methods for measuring airfoil wall thickness;"
@@ -492,32 +355,11 @@ Id,Description
 9D515.b.4,"b.4. Is 'specially designed' for data assemblage, extrapolation, or manipulation of items controlled by ECCN 9A515;"
 9D515.b.5,"b.5. Contains the algorithms or control laws 'specially designed' for attitude, position, or flight control of items controlled in ECCN 9A515; or"
 9D515.b.6,"b.6. Is 'specially designed 'for built-in test and diagnostics for items controlled by ECCN 9A515."
-9D515.c,"c. [Reserved]"
 9D515.d,"d. 'Software' 'specially designed' for the 'development,' 'production,' operation, failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.d."
 9D515.e,"e. 'Software' 'specially designed' for the 'development,' 'production,' operation, failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.e."
-9D515.f,f. [Reserved]
-9D515.g,g. [Reserved]
-9D515.h,h. [Reserved]
-9D515.i,i. [Reserved]
-9D515.j,j. [Reserved]
-9D515.k,k. [Reserved]
-9D515.l,l. [Reserved]
-9D515.m,m. [Reserved]
-9D515.n,n. [Reserved]
-9D515.o,o. [Reserved]
-9D515.p,p. [Reserved]
-9D515.q,q. [Reserved]
-9D515.r,r. [Reserved]
-9D515.s,s. [Reserved]
-9D515.t,t. [Reserved]
-9D515.u,u. [Reserved]
-9D515.v,v. [Reserved]
-9D515.w,w. [Reserved]
-9D515.x,x. [Reserved]
 9D515.y,"y. Specific 'software' 'specially designed' for the 'development,' 'production,' operation, or maintenance of commodities enumerated in ECCN 9A515.y."
 9D604,"9D604 'Software' 'specially designed' for the 'development,' 'production,' operation, or maintenance of commodities controlled by ECCN 9A604 or 9B604 (see List of Items Controlled)."
 9D604.a," a. 'Software' 'specially designed' for the 'development,' 'production,' operation or maintenance of commodities controlled by ECCN 9A604 or ECCN 9B604."
-9D604.b,"b. [Reserved]"
 9D610,"9D610 Software 'specially designed' for the 'development,' 'production,' operation, or maintenance of military aircraft and related commodities controlled by 9A610, equipment controlled by 9B610, or materials controlled by 9C610 (see List of Items Controlled)."
 9D610.a,"a. 'Software' (other than software controlled in paragraphs .b or .y of this entry) 'specially designed' for the 'development,' 'production,' operation, or maintenance of commodities controlled by ECCN 9A610, ECCN 9B610, or ECCN 9C610."
 9D610.b,"b. 'Software' 'specially designed' for the 'development' or 'production' of any of the following:"
@@ -535,28 +377,6 @@ Id,Description
 9D610.b.12,"b.12. Equipment 'specially designed' for system prognostic and health management of aircraft;"
 9D610.b.13,"b.13. Active Vibration Control Systems; or"
 9D610.b.14,"b.14. Self-sealing fuel bladders 'specially designed' to pass a .50 caliber or larger gunfire test (MIL-DTL-5578, MIL-DTL-27422)."
-9D610.c,c. [Reserved]
-9D610.d,d. [Reserved]
-9D610.e,e. [Reserved]
-9D610.f,f. [Reserved]
-9D610.g,g. [Reserved]
-9D610.h,h. [Reserved]
-9D610.i,i. [Reserved]
-9D610.j,j. [Reserved]
-9D610.k,k. [Reserved]
-9D610.l,l. [Reserved]
-9D610.m,m. [Reserved]
-9D610.n,n. [Reserved]
-9D610.o,o. [Reserved]
-9D610.p,p. [Reserved]
-9D610.q,q. [Reserved]
-9D610.r,r. [Reserved]
-9D610.s,s. [Reserved]
-9D610.t,t. [Reserved]
-9D610.u,u. [Reserved]
-9D610.v,v. [Reserved]
-9D610.w,w. [Reserved]
-9D610.x,x. [Reserved]
 9D610.y,"y. Specific 'software' 'specially designed' for the 'development,' 'production,' operation, or maintenance of commodities enumerated in ECCN 9A610.y."
 9D619,"9D619 Software 'specially designed' for the 'development,' 'production,' operation or maintenance of military gas turbine engines and related commodities controlled by 9A619, equipment controlled by 9B619, or materials controlled by 9C619 (see List of Items Controlled)."
 9D619.a,"a. 'Software' (other than software controlled in paragraph .b of this entry) 'specially designed' for the 'development,' 'production,' operation, or maintenance of commodities controlled by ECCN 9A619 (except 9A619.y), ECCN 9B619 (except 9B619.y), or ECCN 9C619."
@@ -572,28 +392,6 @@ Id,Description
 9D619.b.9,"b.9. Torquemeter assembly ( housing, shaft, reference shaft, and sleeve);"
 9D619.b.10,"b.10. Digital engine control systems ( Full Authority Digital Engine Controls (FADEC) and Digital Electronic Engine Controls (DEEC)) 'specially designed' for gas turbine engines controlled in this ECCN; or"
 9D619.b.11,"b.11. Engine monitoring systems ( prognostics, diagnostics, and health) 'specially designed' for gas turbine engines and components controlled in this ECCN."
-9D619.c,c. [Reserved]
-9D619.d,d. [Reserved]
-9D619.e,e. [Reserved]
-9D619.f,f. [Reserved]
-9D619.g,g. [Reserved]
-9D619.h,h. [Reserved]
-9D619.i,i. [Reserved]
-9D619.j,j. [Reserved]
-9D619.k,k. [Reserved]
-9D619.l,l. [Reserved]
-9D619.m,m. [Reserved]
-9D619.n,n. [Reserved]
-9D619.o,o. [Reserved]
-9D619.p,p. [Reserved]
-9D619.q,q. [Reserved]
-9D619.r,r. [Reserved]
-9D619.s,s. [Reserved]
-9D619.t,t. [Reserved]
-9D619.u,u. [Reserved]
-9D619.v,v. [Reserved]
-9D619.w,w. [Reserved]
-9D619.x,x. [Reserved]
 9D619.y,"y. Specific 'software' 'specially designed' for the 'development,' 'production,' operation, or maintenance of commodities enumerated in ECCN 9A619.y or 9B619.y."
 9D620,"9D620 'Software' 'specially designed' for cryogenic and 'superconductive' equipment, as follows (see List of Items Controlled)."
 9D990,"9D990 'Software', n.e.s., for the 'development' or 'production' of equipment controlled by 9A990 or 9B990."
@@ -690,24 +488,6 @@ Id,Description
 9E515.d,"d. 'Technology' 'required' for the 'development,' 'production,' operation, failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.d."
 9E515.e,"e. 'Technology' 'required' for the 'development,' 'production,' failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.e."
 9E515.f,"f. 'Technology' 'required' for the 'development,' 'production,' installation, repair (including on-orbit anomaly resolution and analysis beyond established procedures), overhaul, or refurbishing of commodities controlled by ECCN 9A515.a.1, .a.2, .a.3, .a.4, or .g."
-9E515.g,g. [Reserved]
-9E515.h,h. [Reserved]
-9E515.i,i. [Reserved]
-9E515.j,j. [Reserved]
-9E515.k,k. [Reserved]
-9E515.l,l. [Reserved]
-9E515.m,m. [Reserved]
-9E515.n,n. [Reserved]
-9E515.o,o. [Reserved]
-9E515.p,p. [Reserved]
-9E515.q,q. [Reserved]
-9E515.r,r. [Reserved]
-9E515.s,s. [Reserved]
-9E515.t,t. [Reserved]
-9E515.u,u. [Reserved]
-9E515.v,v. [Reserved]
-9E515.w,w. [Reserved]
-9E515.x,x. [Reserved]
 9E515.y,"y. Specific 'technology' 'required' for the 'production,' 'development,' operation, installation, maintenance, repair, overhaul, or refurbishing of commodities or software enumerated in ECCN 9A515.y or 9D515.y."
 9E604,"9E604 'Technology' 'required' for the 'development,' 'production,' operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by ECCN 9A604 or 9B604, or 'software' controlled by ECCN 9D604 (see List of Items Controlled)."
 9E604.a," a. 'Technology' 'required' for the 'development,' 'production,' operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by ECCN 9A604 or 9B604, or 'software' controlled by ECCN 9D604."
@@ -730,28 +510,6 @@ Id,Description
 9E610.b.13,"b.13. Active Vibration Control Systems;"
 9E610.b.14,"b.14. Self-sealing fuel bladders 'specially designed' to pass a .50 caliber or larger gunfire test (MIL-DTL-5578, MIL-DTL-27422); or"
 9E610.b.15,"b.15. Technology 'required' for the 'development' or 'production' of 'parts' or 'components' controlled in 9A610.x and 'specially designed' for damage or failure-adaptive flight control systems controlled in Category VIII(h)(7) of the USML."
-9E610.c,c. [Reserved]
-9E610.d,d. [Reserved]
-9E610.e,e. [Reserved]
-9E610.f,f. [Reserved]
-9E610.g,g. [Reserved]
-9E610.h,h. [Reserved]
-9E610.i,i. [Reserved]
-9E610.j,j. [Reserved]
-9E610.k,k. [Reserved]
-9E610.l,l. [Reserved]
-9E610.m,m. [Reserved]
-9E610.n,n. [Reserved]
-9E610.o,o. [Reserved]
-9E610.p,p. [Reserved]
-9E610.q,q. [Reserved]
-9E610.r,r. [Reserved]
-9E610.s,s. [Reserved]
-9E610.t,t. [Reserved]
-9E610.u,u. [Reserved]
-9E610.v,v. [Reserved]
-9E610.w,w. [Reserved]
-9E610.x,x. [Reserved]
 9E610.y,"y. Specific 'technology' 'required' for the 'production,' 'development,' operation, installation, maintenance, repair, overhaul, or refurbishing of commodities or software enumerated in ECCN 9A610.y or 9D610.y."
 9E619,"9E619 'Technology' 'required' for the 'development,' 'production,' operation, installation, maintenance, repair, overhaul, or refurbishing of military gas turbine engines and related commodities controlled by 9A619, equipment controlled by 9B619, materials controlled by 9C619, or software controlled by 9D619 (see List of Items Controlled)."
 9E619.a,"a. 'Technology' (other than 'technology' controlled by paragraphs .b and .c of this entry) 'required' for the 'development,' 'production,' operation, installation, maintenance, repair, overhaul, or refurbishment of items controlled by ECCN 9A619 (except 9A619.y), ECCN 9B619 (except 9B619.y), ECCN 9C619, or ECCN 9D619 (except 9D619.y)."
@@ -774,27 +532,6 @@ Id,Description
 9E619.c.5,"c.5. Low pressure turbine 'components' and 'parts' as follows: shafts and disks, blades, vanes, nozzles, tip shrouds;"
 9E619.c.6,"c.6. Digital engine control systems ( Full Authority Digital Engine Controls (FADEC) and Digital Electronic Engine Controls (DEEC)) 'specially designed' for gas turbine engines controlled in this ECCN; or"
 9E619.c.7,"c.7. Engine monitoring systems ( prognostics, diagnostics, and health) 'specially designed' for gas turbine engines and components controlled in this ECCN."
-9E619.d,d. [Reserved]
-9E619.e,e. [Reserved]
-9E619.f,f. [Reserved]
-9E619.g,g. [Reserved]
-9E619.h,h. [Reserved]
-9E619.i,i. [Reserved]
-9E619.j,j. [Reserved]
-9E619.k,k. [Reserved]
-9E619.l,l. [Reserved]
-9E619.m,m. [Reserved]
-9E619.n,n. [Reserved]
-9E619.o,o. [Reserved]
-9E619.p,p. [Reserved]
-9E619.q,q. [Reserved]
-9E619.r,r. [Reserved]
-9E619.s,s. [Reserved]
-9E619.t,t. [Reserved]
-9E619.u,u. [Reserved]
-9E619.v,v. [Reserved]
-9E619.w,w. [Reserved]
-9E619.x,x. [Reserved]
 9E619.y,"y. Specific 'technology' 'required' for the 'development,' 'production,' operation, installation, maintenance, repair, overhaul, or refurbishment of commodities controlled by 9A619.y or 9B619.y, or 'software' controlled by ECCN 9D619.y."
 9E620,"9E620 Technology 'required' for cryogenic and 'superconductive' equipment, as follows (see List of Items Controlled)."
 9E990,"9E990 'Technology', n.e.s., for the 'development' or 'production' or 'use' of equipment controlled by 9A990 or 9B990."
