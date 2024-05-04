@@ -97,6 +97,16 @@ Id,Description
 9D610.b.14.p1,Self-sealing fuel bladders
 9A620.p1,Cryogenic Equipment
 9A620.p2,Superconductive Equipment
+XV,Something
+XV.a.7,Something
+XV.a.8,Something
+XV.e.1,Something
+XV.e.2,Something
+XV.e.3,Something
+XV.e.10,Something
+XV.e.12,Something
+XV.e.15,Something
+XV.e.16,Something
 XV.p1,"Spacecraft parts, components, accessories, attachments, equipment, or systems"
 XV.a.7.p1,Electro-optical remote sensing capabilities
 XV.a.8.p1,Radar remote sensing capabilities
