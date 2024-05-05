@@ -94,6 +94,17 @@ Node1,Relationship,Node2
 9D610.b.14,part,9D610.b.14.p1
 9A620,part,9A620.p1
 9A620,part,9A620.p2
+XV,ChildOf,XV.a
+XV,ChildOf,XV.e
+XV.a,ChildOf,XV.a.7
+XV.a,ChildOf,XV.a.8
+XV.e,ChildOf,XV.e.1
+XV.e,ChildOf,XV.e.2
+XV.e,ChildOf,XV.e.3
+XV.e,ChildOf,XV.e.10
+XV.e,ChildOf,XV.e.12
+XV.e,ChildOf,XV.e.15
+XV.e,ChildOf,XV.e.16
 XV,part,XV.p1
 XV.a.7,part,XV.a.7.p1
 XV.a.8,part,XV.a.8.p1
