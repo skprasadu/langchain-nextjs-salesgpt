@@ -165,8 +165,8 @@ Node1,Relationship,Node2
 9A610,ChildIs,9A610.t
 9A610,ChildIs,9A610.u
 9A610,ChildIs,9A610.v
-9A610.w,ChildIs,9A610.w.1
-9A610.w,ChildIs,9A610.w.2
+9A610,ChildIs,9A610.w.1
+9A610,ChildIs,9A610.w.2
 9A610,ChildIs,9A610.x
 9A610,ChildIs,9A610.y
 9A610.y,ChildIs,9A610.y.1
