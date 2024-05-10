@@ -1,8 +1,7 @@
 Node1,Relationship,Node2
 9,ChildIs,9A
 9A,ChildIs,9A001
-9A001,ChildIs_or,9A001.a
-9A001,ChildIs_or,9A001.b
+9A001,ChildIs,9A001.a
 9A,ChildIs,9A002
 9A002,ChildIs_and,9A002.a
 9A002,ChildIs_and,9A002.b
@@ -64,8 +63,6 @@ Node1,Relationship,Node2
 9A012.a,ChildIs_and,9A012.a.2
 9A012.a.1,ChildIs_and,9A012.a.1.a
 9A012.a.1,ChildIs_and,9A012.a.1.b
-9A012.b,ChildIs,9A012.b.1
-9A012.b,ChildIs,9A012.b.2
 9A012.b,ChildIs,9A012.b.3
 9A012.b,ChildIs,9A012.b.4
 9A,ChildIs,9A018
@@ -111,7 +108,6 @@ Node1,Relationship,Node2
 9A515.a,ChildIs,9A515.a.4
 9A515.a,ChildIs,9A515.a.5
 9A515,ChildIs,9A515.b
-9A515,ChildIs,9A515.c
 9A515,ChildIs,9A515.d
 9A515.d,ChildIs_and,9A515.d.1
 9A515.d,ChildIs_and,9A515.d.2
@@ -305,7 +301,6 @@ Node1,Relationship,Node2
 9B619,ChildIs,9B619.y
 9B,ChildIs,9B620
 9B620,ChildIs,9B620.a
-9B620,ChildIs,9B620.b
 9B,ChildIs,9B990
 9B,ChildIs,9B991
 9B991,ChildIs,9B991.a
@@ -358,7 +353,6 @@ Node1,Relationship,Node2
 9D515.b,ChildIs,9D515.b.4
 9D515.b,ChildIs,9D515.b.5
 9D515.b,ChildIs,9D515.b.6
-9D515,ChildIs,9D515.c
 9D515,ChildIs,9D515.d
 9D515,ChildIs,9D515.e
 9D515,ChildIs,9D515.y
@@ -411,10 +405,7 @@ Node1,Relationship,Node2
 9E003.a,ChildIs_or,9E003.a.4
 9E003.a,ChildIs_or,9E003.a.5
 9E003.a,ChildIs_or,9E003.a.6
-9E003.a,ChildIs_or,9E003.a.7
 9E003.a,ChildIs_or,9E003.a.8
-9E003.a,ChildIs_or,9E003.a.9
-9E003.a,ChildIs_or,9E003.a.10
 9E003.a,ChildIs_or,9E003.a.11
 9E003.a.2,ChildIs_or,9E003.a.2.a
 9E003.a.2,ChildIs_or,9E003.a.2.b
@@ -494,7 +485,6 @@ Node1,Relationship,Node2
 9E515,ChildIs,9E515.y
 9E,ChildIs,9E604
 9E604,ChildIs,9E604.a
-9E604,ChildIs,9E604.b
 9E,ChildIs,9E610
 9E610,ChildIs,9E610.a
 9E610,ChildIs,9E610.b

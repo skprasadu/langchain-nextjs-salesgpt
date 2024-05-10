@@ -1,71 +1,71 @@
 Id,Description
 9,"Category 9—Aerospace and Propulsion"
-9A,"A. 'End Items', 'Equipment', 'Accessories', 'Attachments', 'Parts', 'Components' and 'Systems'"
+9A,"A. “End Items”, “Equipment”, “Accessories”, “Attachments”, “Parts”, “Components” and “Systems”"
 9A001,9A001 Aero gas turbine engines having any of the following (see List of Items Controlled).
-9A001.a,"a. Incorporating any of the 'technologies' controlled by 9E003.a, 9E003.h, or 9E003.i;"
-9A002,9A002 'Marine gas turbine engines' designed to use liquid fuel and having all of the following (see List of Items Controlled), and 'specially designed' assemblies and 'components' therefor.
-9A002.a, a. Maximum continuous power when operating in 'steady state mode' at standard reference conditions specified by ISO 3977-2:1997 (or national equivalent) of 24,245 kW or more; 
+9A001.a,"a. Incorporating any of the “technologies” controlled by 9E003.a, 9E003.h, or 9E003.i;"
+9A002,9A002 'Marine gas turbine engines' designed to use liquid fuel and having all of the following (see List of Items Controlled), and “specially designed” assemblies and “components” therefor.
+9A002.a, a. Maximum continuous power when operating in “steady state mode” at standard reference conditions specified by ISO 3977-2:1997 (or national equivalent) of 24,245 kW or more; 
 9A002.b,"b. 'Corrected specific fuel consumption' not exceeding 0.219 kg/kWh at 35% of the maximum continuous power when using liquid fuel."
-9A003,9A003 'Specially designed' assemblies or 'components', incorporating any of the 'technologies' controlled by 9E003.a, 9E003.h, 9E003.i, or 9E003.k, for any of the following aero gas turbine engines (see List of Items Controlled).
+9A003,9A003 “Specially designed” assemblies or “components”, incorporating any of the “technologies” controlled by 9E003.a, 9E003.h, 9E003.i, or 9E003.k, for any of the following aero gas turbine engines (see List of Items Controlled).
 9A003.a,a. Controlled by 9A001; 
 9A003.b,"b. Whose design or production origins are either not from a Wassenaar Participating State (see Supplement No. 1 to part 743 of the EAR) or unknown to the manufacturer."
-9A004,9A004 Space launch vehicles and 'spacecraft,' 'spacecraft buses', 'spacecraft payloads', 'spacecraft' on-board systems or equipment, terrestrial equipment, and air-launch platforms, and 'sub-orbital craft', as follows (see List of Items Controlled).
+9A004,9A004 Space launch vehicles and “spacecraft,” “spacecraft buses”, “spacecraft payloads”, “spacecraft” on-board systems or equipment, terrestrial equipment, and air-launch platforms, and “sub-orbital craft”, as follows (see List of Items Controlled).
 9A004.a,"a. Space launch vehicles;"
-9A004.b,"b. 'Spacecraft';"
-9A004.c,"c. 'Spacecraft buses';"
-9A004.d,"d. 'Spacecraft payloads' incorporating items specified by 3A001.b.1.a.4 or z (if also described in 3A001.b.1.a.4), 3A002.g, 5A001.a.1, 5A001.b.3, 5A002.c, z.3 or z.8, 5A002.e, z.5, 6A002.a.1, 6A002.a.2, 6A002.b, 6A002.d, 6A003.b, 6A004.c, 6A004.e, 6A008.d, 6A008.e, 6A008.k, 6A008.l or 9A010.c;"
-9A004.e,"e. On-board systems or equipment, specially designed for 'spacecraft' and having any of the following functions:"
+9A004.b,"b. “Spacecraft”;"
+9A004.c,"c. “Spacecraft buses”;"
+9A004.d,"d. “Spacecraft payloads” incorporating items specified by 3A001.b.1.a.4 or z (if also described in 3A001.b.1.a.4), 3A002.g, 5A001.a.1, 5A001.b.3, 5A002.c, z.3 or z.8, 5A002.e, z.5, 6A002.a.1, 6A002.a.2, 6A002.b, 6A002.d, 6A003.b, 6A004.c, 6A004.e, 6A008.d, 6A008.e, 6A008.k, 6A008.l or 9A010.c;"
+9A004.e,"e. On-board systems or equipment, specially designed for “spacecraft” and having any of the following functions:"
 9A004.e.1,"e.1. 'Command and telemetry data handling';"
 9A004.e.2,e.2. 'Payload data handling'; 
 9A004.e.3,"e.3. 'Attitude and orbit control';"
-9A004.f,"f. Terrestrial equipment specially designed for 'spacecraft', as follows:"
-9A004.f.1,"f.1. Telemetry and telecommand equipment 'specially designed' for any of the following data processing functions:"
-9A004.f.1.a,f.1.a. Telemetry data processing of frame synchronization and error corrections, for monitoring of operational status (also known as health and safe status) of the 'spacecraft bus'; 
-9A004.f.1.b,"f.1.b. Command data processing for formatting command data being sent to the 'spacecraft' to control the 'spacecraft bus';"
-9A004.f.2,"f.2. Simulators 'specially designed' for `verification of operational procedures' of 'spacecraft'."
-9A004.g,"g. 'Aircraft' 'specially designed' or modified to be air-launch platforms for space launch vehicles or 'sub-orbital craft'."
-9A004.h,"h. 'Sub-orbital craft'."
+9A004.f,"f. Terrestrial equipment specially designed for “spacecraft”, as follows:"
+9A004.f.1,"f.1. Telemetry and telecommand equipment “specially designed” for any of the following data processing functions:"
+9A004.f.1.a,f.1.a. Telemetry data processing of frame synchronization and error corrections, for monitoring of operational status (also known as health and safe status) of the “spacecraft bus”; 
+9A004.f.1.b,"f.1.b. Command data processing for formatting command data being sent to the “spacecraft” to control the “spacecraft bus”;"
+9A004.f.2,"f.2. Simulators “specially designed” for `verification of operational procedures' of “spacecraft”."
+9A004.g,"g. “Aircraft” “specially designed” or modified to be air-launch platforms for space launch vehicles or “sub-orbital craft”."
+9A004.h,"h. “Sub-orbital craft”."
 9A004.u,"u. The James Webb Space Telescope (JWST) being developed, launched, and operated under the supervision of the U.S. National Aeronautics and Space Administration (NASA)."
-9A004.v,v. 'Parts,' 'components,' 'accessories' and 'attachments' that are 'specially designed' for the James Webb Space Telescope and that are 
+9A004.v,v. “Parts,” “components,” “accessories” and “attachments” that are “specially designed” for the James Webb Space Telescope and that are 
 9A004.v.1,"v.1. Enumerated or controlled in the USML;"
 9A004.v.2,"v.2. Microelectronic circuits;"
 9A004.v.3,v.3. Described in ECCN 7A004 or 7A104; 
-9A004.v.4,"v.4. Described in an ECCN containing 'space-qualified' as a control criterion ( ECCN 9A515.x.4)."
+9A004.v.4,"v.4. Described in an ECCN containing “space-qualified” as a control criterion ( ECCN 9A515.x.4)."
 9A004.w,"w. The International Space Station being developed, launched, and operated under the supervision of the U.S. National Aeronautics and Space Administration."
-9A004.x,"x. 'Parts,' 'components,' 'accessories' and 'attachments' that are 'specially designed' for the International Space Station."
+9A004.x,"x. “Parts,” “components,” “accessories” and “attachments” that are “specially designed” for the International Space Station."
 9A004.y,"y. Items that would otherwise be within the scope of ECCN 9A004.v or .x but that have been identified in an interagency-cleared commodity classification (CCATS) pursuant to § 748.3(e) as warranting control in 9A004.y."
-9A005,9A005 Liquid rocket propulsion systems containing any of the systems or 'components,' controlled by 9A006. (These items are 'subject to the ITAR.' See 22 CFR parts 120 through 130.)
-9A006,9A006 Systems, 'components,' 'specially designed' for liquid rocket propulsion systems. (These items are 'subject to the ITAR.' See 22 CFR parts 120 through 130.)
-9A007,9A007 Solid rocket propulsion systems. (These items are 'subject to the ITAR.' See 22 CFR parts 120 through 130.)
-9A008,9A008 'Components' 'specially designed' for solid rocket propulsion systems. (These items are 'subject to the ITAR.' See 22 CFR parts 120 through 130.)
-9A009,9A009 Hybrid rocket propulsion systems. (These items are 'subject to the ITAR.' See 22 CFR parts 120 through 130.)
-9A010,9A010 'Specially Designed' 'Parts,' 'Components,' Systems and Structures, for Launch Vehicles, Launch Vehicle Propulsion Systems or 'Spacecraft'. (See Related Controls Paragraph.)
-9A010.a,"a. 'Parts', 'components' and structures, each exceeding 10 kg and 'specially designed' for launch vehicles manufactured using any of the following:"
-9A010.a.1,"a.1. 'Composite' materials consisting of 'fibrous or filamentary materials' specified by 1C010.e and resins specified by 1C008 or 1C009.b;"
-9A010.a.2,"a.2. Metal 'matrix' 'composites' reinforced by any of the following:"
+9A005,9A005 Liquid rocket propulsion systems containing any of the systems or “components,” controlled by 9A006. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)
+9A006,9A006 Systems, “components,” “specially designed” for liquid rocket propulsion systems. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)
+9A007,9A007 Solid rocket propulsion systems. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)
+9A008,9A008 “Components” “specially designed” for solid rocket propulsion systems. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)
+9A009,9A009 Hybrid rocket propulsion systems. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)
+9A010,9A010 “Specially Designed” “Parts,” “Components,” Systems and Structures, for Launch Vehicles, Launch Vehicle Propulsion Systems or “Spacecraft”. (See Related Controls Paragraph.)
+9A010.a,"a. “Parts”, “components” and structures, each exceeding 10 kg and “specially designed” for launch vehicles manufactured using any of the following:"
+9A010.a.1,"a.1. “Composite” materials consisting of “fibrous or filamentary materials” specified by 1C010.e and resins specified by 1C008 or 1C009.b;"
+9A010.a.2,"a.2. Metal “matrix” “composites” reinforced by any of the following:"
 9A010.a.2.a,"a.2.a. Materials specified by 1C007;"
-9A010.a.2.b,a.2.b. 'Fibrous or filamentary materials' specified by 1C010; 
+9A010.a.2.b,a.2.b. “Fibrous or filamentary materials” specified by 1C010; 
 9A010.a.2.c,a.2.c. Aluminides specified by 1C002.a; 
-9A010.a.3,"a.3. Ceramic 'matrix' 'composite' materials specified by 1C007;"
-9A010.b,"b. 'Parts', 'components' and structures, 'specially designed' for launch vehicle propulsion systems specified by 9A005 to 9A009, manufactured using any of the following:"
-9A010.b.1,"b.1. 'Fibrous or filamentary materials' specified by 1C010.e and resins specified by 1C008 or 1C009.b;"
-9A010.b.2,"b.2. Metal 'Matrix 'composites' reinforced by any of the following:"
+9A010.a.3,"a.3. Ceramic “matrix” “composite” materials specified by 1C007;"
+9A010.b,"b. “Parts”, “components” and structures, “specially designed” for launch vehicle propulsion systems specified by 9A005 to 9A009, manufactured using any of the following:"
+9A010.b.1,"b.1. “Fibrous or filamentary materials” specified by 1C010.e and resins specified by 1C008 or 1C009.b;"
+9A010.b.2,"b.2. Metal “Matrix “composites” reinforced by any of the following:"
 9A010.b.2.a,"b.2.a. Materials specified by 1C007;"
-9A010.b.2.b,b.2.b. 'Fibrous or filamentary materials' specified by 1C010; 
+9A010.b.2.b,b.2.b. “Fibrous or filamentary materials” specified by 1C010; 
 9A010.b.2.c,b.2.c. Aluminides specified by 1C002.a; 
-9A010.b.3,"b.3. Ceramic 'matrix' 'composite' materials specified by 1C007;"
-9A010.c,"c. Structural components and isolation systems, specially designed to control actively the dynamic response or distortion of 'spacecraft' structures;"
+9A010.b.3,"b.3. Ceramic “matrix” “composite” materials specified by 1C007;"
+9A010.c,"c. Structural components and isolation systems, specially designed to control actively the dynamic response or distortion of “spacecraft” structures;"
 9A010.d,"d. Pulsed liquid rocket engines with thrust-to-weight ratios equal to or more than 1 kN/kg and a 'response time' of less than 30 ms."
-9A011,9A011 Ramjet, scramjet or 'combined cycle engines', and 'specially designed' 'parts' and 'components' therefor. (These items are 'subject to the ITAR.' See 22 CFR parts 120 through 130.)
-9A012,9A012 Non-military 'Unmanned Aerial Vehicles,' ('UAVs'), unmanned 'airships', related equipment and 'components', as follows (see List of Items Controlled).
-9A012.a,"a. 'UAVs' or unmanned 'airships', designed to have controlled flight out of the direct 'natural vision' of the 'operator' and having any of the following:"
+9A011,9A011 Ramjet, scramjet or 'combined cycle engines', and “specially designed” “parts” and “components” therefor. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)
+9A012,9A012 Non-military “Unmanned Aerial Vehicles,” (“UAVs”), unmanned “airships”, related equipment and “components”, as follows (see List of Items Controlled).
+9A012.a,"a. “UAVs” or unmanned “airships”, designed to have controlled flight out of the direct 'natural vision' of the 'operator' and having any of the following:"
 9A012.a.1,"a.1. Having all of the following:"
 9A012.a.1.a,"a.1.a. A maximum 'endurance' greater than or equal to 30 minutes but less than 1 hour; and"
 9A012.a.1.b,a.1.b. Designed to take-off and have stable controlled flight in wind gusts equal to or exceeding 46.3 km/h (25 knots); 
 9A012.a.2,"a.2. A maximum 'endurance' of 1 hour or greater;"
-9A012.b,"b. Related equipment and 'components', as follows:"
-9A012.b.3,"b.3. Equipment or 'components' 'specially designed' to convert a manned 'aircraft' or a manned 'airship' to a 'UAV' or unmanned 'airship', controlled by 9A012.a;"
-9A012.b.4,"b.4. Air breathing reciprocating or rotary internal combustion type engines, 'specially designed' or modified to propel 'UAVs' or unmanned 'airships', at altitudes above 15,240 meters (50,000 feet)."
+9A012.b,"b. Related equipment and “components”, as follows:"
+9A012.b.3,"b.3. Equipment or “components” “specially designed” to convert a manned “aircraft” or a manned “airship” to a “UAV” or unmanned “airship”, controlled by 9A012.a;"
+9A012.b.4,"b.4. Air breathing reciprocating or rotary internal combustion type engines, “specially designed” or modified to propel “UAVs” or unmanned “airships”, at altitudes above 15,240 meters (50,000 feet)."
 9A018,9A018 Equipment on the Wassenaar Arrangement Munitions List.
 9A101,9A101 Turbojet and turbofan engines, other than those controlled by 9A001, as follows (see List of Items Controlled).
 9A101.a,"a. Engines having all of the following characteristics:"
@@ -73,27 +73,27 @@ Id,Description
 9A101.a.2,"a.2. Specific fuel consumption of 0.15 kg N h or less;"
 9A101.a.3,a.3. 'Dry weight' less than 750 kg; 
 9A101.a.4,a.4. 'First-stage rotor diameter' less than 1 m; 
-9A101.b,"b. Engines designed or modified for use in 'missiles' or UAVs with a range equal to or greater than 300 km, regardless of thrust, specific fuel consumption, 'dry weight' or 'first-stage rotor diameter'."
-9A102,9A102 'Turboprop engine systems' 'specially designed' for items controlled in 9A012 for MT reasons, and 'specially designed' 'parts' and 'components' therefor, having a maximum power greater than 10 kW (achieved uninstalled at sea level static conditions using the ICAO standard atmosphere), excluding civil certified engines.
-9A103,9A103 Liquid propellant tanks 'specially designed' for the propellants controlled in ECCNs 1C011, 1C111 or other liquid propellants used in 'missiles.' (These items are 'subject to the ITAR.' See 22 CFR parts 120 through 130.)
-9A104,9A104 Sounding rockets, capable of a range of at least 300 km. (These items are 'subject to the ITAR.' See 22 CFR parts 120 through 130.)
-9A105,9A105 Liquid propellant rocket engines. (These items are 'subject to the ITAR.' See 22 CFR parts 120 through 130.)
-9A106,9A106 Systems, 'parts' or 'components,' other than those controlled by 9A006, usable in 'missiles,' and 'specially designed' for liquid rocket propulsion systems, as follows (see List of Items Controlled).
+9A101.b,"b. Engines designed or modified for use in “missiles” or UAVs with a range equal to or greater than 300 km, regardless of thrust, specific fuel consumption, 'dry weight' or 'first-stage rotor diameter'."
+9A102,9A102 'Turboprop engine systems' “specially designed” for items controlled in 9A012 for MT reasons, and “specially designed” “parts” and “components” therefor, having a maximum power greater than 10 kW (achieved uninstalled at sea level static conditions using the ICAO standard atmosphere), excluding civil certified engines.
+9A103,9A103 Liquid propellant tanks “specially designed” for the propellants controlled in ECCNs 1C011, 1C111 or other liquid propellants used in “missiles.” (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)
+9A104,9A104 Sounding rockets, capable of a range of at least 300 km. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)
+9A105,9A105 Liquid propellant rocket engines. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)
+9A106,9A106 Systems, “parts” or “components,” other than those controlled by 9A006, usable in “missiles,” and “specially designed” for liquid rocket propulsion systems, as follows (see List of Items Controlled).
 9A106.a," a. Ablative liners for thrust or combustion chambers;"
 9A106.b,"b. Rocket nozzles;"
 9A106.c,"c. Thrust vector control sub-systems;"
-9A106.d,"d. Liquid, slurry and gel propellant (including oxidizers) control systems, and 'specially designed' 'parts' and 'components' therefor, designed or modified to operate in vibration environments greater than 10 g rms between 20 Hz and 2000 Hz."
-9A106.e,"e. Flight control servo valves designed or modified for use in 'missiles' and designed or modified to operate in a vibration environment greater than 10g rms over the entire range between 20Hz and 2 kHz."
+9A106.d,"d. Liquid, slurry and gel propellant (including oxidizers) control systems, and “specially designed” “parts” and “components” therefor, designed or modified to operate in vibration environments greater than 10 g rms between 20 Hz and 2000 Hz."
+9A106.e,"e. Flight control servo valves designed or modified for use in “missiles” and designed or modified to operate in a vibration environment greater than 10g rms over the entire range between 20Hz and 2 kHz."
 9A107,"9A107 Solid propellant rocket motors, usable in rockets with a range capability of 300 km or greater, other than those controlled by 9A007, having total impulse capacity equal to or greater than 8.41 × 10"
-9A108,9A108 Solid rocket propulsion 'parts' and 'components,' other than those controlled by 9A008, usable in rockets with a range capability of 300 km or greater. (These items are 'subject to the ITAR.' See 22 CFR parts 120 through 130.)
-9A109,9A109 Hybrid rocket motors, usable in rockets with a range capability of 300 km or greater, other than those controlled by 9A009, and 'specially designed' 'parts' and 'components' therefor. (These items are 'subject to the ITAR.' See 22 CFR parts 120 through 130.)
-9A110,9A110 Composite structures, laminates and manufactures thereof 'specially designed' for 9A012 items that are controlled for MT reasons.
-9A111,9A111 Pulse jet engines, usable in rockets, missiles, or unmanned aerial vehicles capable of achieving a 'range' equal to or greater than 300 km, and 'specially designed' 'parts' and 'components' therefor. (These items are 'subject to the ITAR.' See 22 CFR parts 120 through 130.)
-9A115,9A115 Apparatus, devices and vehicles, designed or modified for the transport, handling, control, activation and launching of rockets, missiles, and unmanned aerial vehicles capable of achieving a 'range' equal to or greater than 300 km.
-9A116,9A116 Reentry vehicles, usable in 'missiles,' and equipment designed or modified therefor. (These items are 'subject to the ITAR.' See 22 CFR parts 120 through 130.)
-9A117,9A117 Staging mechanisms, separation mechanisms, and interstages therefor, usable in 'missiles'. (These items are 'subject to the ITAR.' See 22 CFR parts 120 through 130.)
-9A118,9A118 Devices to regulate combustion usable in engines which are usable in rockets, missiles, and unmanned aerial vehicles capable of achieving a 'range' equal to or greater than 300 km, controlled by 9A011 or 9A111. (These items are 'subject to the ITAR.' See 22 CFR parts 120 through 130.)
-9A119,9A119 Individual rocket stages, usable in rockets with a range capability greater than 300 km or greater, other than those controlled by 9A005, 9A007, 9A009, 9A105, 9A107 and 9A109. (These items are 'subject to the ITAR.' See 22 CFR parts 120 through 130.)
+9A108,9A108 Solid rocket propulsion “parts” and “components,” other than those controlled by 9A008, usable in rockets with a range capability of 300 km or greater. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)
+9A109,9A109 Hybrid rocket motors, usable in rockets with a range capability of 300 km or greater, other than those controlled by 9A009, and “specially designed” “parts” and “components” therefor. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)
+9A110,9A110 Composite structures, laminates and manufactures thereof “specially designed” for 9A012 items that are controlled for MT reasons.
+9A111,9A111 Pulse jet engines, usable in rockets, missiles, or unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km, and “specially designed” “parts” and “components” therefor. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)
+9A115,9A115 Apparatus, devices and vehicles, designed or modified for the transport, handling, control, activation and launching of rockets, missiles, and unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km.
+9A116,9A116 Reentry vehicles, usable in “missiles,” and equipment designed or modified therefor. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)
+9A117,9A117 Staging mechanisms, separation mechanisms, and interstages therefor, usable in “missiles”. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)
+9A118,9A118 Devices to regulate combustion usable in engines which are usable in rockets, missiles, and unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km, controlled by 9A011 or 9A111. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)
+9A119,9A119 Individual rocket stages, usable in rockets with a range capability greater than 300 km or greater, other than those controlled by 9A005, 9A007, 9A009, 9A105, 9A107 and 9A109. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)
 9A120,9A120 Complete unmanned aerial vehicles, not specified in 9A012, having all of the following characteristics (see List of Items Controlled).
 9A120.a," a. Having any of the following:"
 9A120.a.1,a.1. An autonomous flight control and navigation capability; 
@@ -101,34 +101,34 @@ Id,Description
 9A120.b,"b. Having any of the following:"
 9A120.b.1,b.1. Incorporating an aerosol dispensing system/mechanism with a capacity greater than 20 liters; 
 9A120.b.2,"b.2. Designed or modified to incorporate an aerosol dispensing system/mechanism with a capacity of greater than 20 liters."
-9A515,9A515 'Spacecraft' and related commodities, as follows (see List of Items Controlled).
-9A515.a,"a. 'Spacecraft,' including satellites, and space vehicles and 'sub-orbital craft,' whether designated developmental, experimental, research or scientific, not enumerated in USML Category XV or described in ECCN 9A004.u or .w, that:"
+9A515,9A515 “Spacecraft” and related commodities, as follows (see List of Items Controlled).
+9A515.a,"a. “Spacecraft,” including satellites, and space vehicles and “sub-orbital craft,” whether designated developmental, experimental, research or scientific, not enumerated in USML Category XV or described in ECCN 9A004.u or .w, that:"
 9A515.a.1,"a.1. Have electro-optical remote sensing capabilities and having a clear aperture greater than 0.35 meters, but less than or equal to 0.50 meters;"
 9A515.a.2,"a.2. Have remote sensing capabilities beyond NIR ( SWIR, MWIR, or LWIR);"
 9A515.a.3,"a.3. Have radar remote sensing capabilities ( AESA, SAR, or ISAR) having a center frequency equal to or greater than 1.0 GHz, but less than 10.0 GHz and having a bandwidth equal to or greater than 100 MHz, but less than 300 MHz;"
-9A515.a.4,a.4. Provide space-based logistics, assembly, or servicing of another 'spacecraft'; 
+9A515.a.4,a.4. Provide space-based logistics, assembly, or servicing of another “spacecraft”; 
 9A515.a.5,"a.5. Are not described in ECCN 9A515.a.1, .a.2, .a.3 or .a.4."
-9A515.b,"b. Ground control systems and training simulators 'specially designed' for telemetry, tracking, and control of the 'spacecraft' controlled in paragraphs 9A004.u or 9A515.a."
-9A515.d,"d. Microelectronic circuits ( integrated circuits, microcircuits, or MOSFETs) and discrete electronic components rated, certified, or otherwise specified or described as meeting or exceeding all the following characteristics and that are 'specially designed' for defense articles, '600 series' items, or items controlled by ECCNs 9A004.v or 9A515:"
+9A515.b,"b. Ground control systems and training simulators “specially designed” for telemetry, tracking, and control of the “spacecraft” controlled in paragraphs 9A004.u or 9A515.a."
+9A515.d,"d. Microelectronic circuits ( integrated circuits, microcircuits, or MOSFETs) and discrete electronic components rated, certified, or otherwise specified or described as meeting or exceeding all the following characteristics and that are “specially designed” for defense articles, “600 series” items, or items controlled by ECCNs 9A004.v or 9A515:"
 9A515.d.1,"d.1. A total dose of 5 × 10 Rads (Si) (5 × 10 Gy (Si));"
 9A515.d.2,"d.2. A dose rate upset threshold of 5 × 10 Rads (Si)/sec (5 × 10 Gy (Si)/sec);"
 9A515.d.3,"d.3. A neutron dose of 1 × 10 n/cm (1 MeV equivalent);"
 9A515.d.4,"d.4. An uncorrected single event upset sensitivity of 1 × 10 errors/bit/day or less, for the CRÈME-MC geosynchronous orbit, Solar Minimum Environment for heavy ion flux; and"
 9A515.d.5,"d.5. An uncorrected single event upset sensitivity of 1 × 10 errors/part or less for a fluence of 1 × 10 protons/cm for proton energy greater than 50 MeV."
-9A515.e,"e. Microelectronic circuits ( integrated circuits, microcircuits, or MOSFETs) and discrete electronic components that are rated, certified, or otherwise specified or described as meeting or exceeding the characteristics in either paragraph e.1 or e.2, AND 'specially designed' for defense articles controlled by USML Category XV or items controlled by ECCNs 9A004.u or 9A515:"
+9A515.e,"e. Microelectronic circuits ( integrated circuits, microcircuits, or MOSFETs) and discrete electronic components that are rated, certified, or otherwise specified or described as meeting or exceeding the characteristics in either paragraph e.1 or e.2, AND “specially designed” for defense articles controlled by USML Category XV or items controlled by ECCNs 9A004.u or 9A515:"
 9A515.e.1,"e.1. A total dose ≥1 × 10 Rads (Si) (1 × 10 Gy(Si)) and <5 × 10 Rads (Si) (5 × 10 Gy(Si)); and a single event effect (SEE) ( single event latchup (SEL), single event burnout (SEB), or single event gate rupture (SEGR)) immunity to a linear energy transfer (LET) ≥80 MeV-cm/mg; "
 9A515.e.2,"e.2. A total dose ≥5 × 10 Rads (Si) (5 × 10 Gy (Si)) and not described in 9A515.d."
 9A515.f,"f. Pressure suits ( space suits) capable of operating at altitudes 55,000 feet above sea level."
-9A515.g,"g. Remote sensing components 'specially designed' for 'spacecraft' described in ECCNs 9A515.a.1 through 9A515.a.4 as follows:"
+9A515.g,"g. Remote sensing components “specially designed” for “spacecraft” described in ECCNs 9A515.a.1 through 9A515.a.4 as follows:"
 9A515.g.1,"g.1. Space-qualified optics ( lens, mirror, membrane having active properties ( adaptive, deformable)) with the largest lateral clear aperture dimension equal to or less than 0.35 meters; or with the largest clear aperture dimension greater than 0.35 meters but less than or equal to 0.50 meters;"
-9A515.g.2,g.2. Optical bench assemblies 'specially designed' for ECCN 9A515.a.1, 9A515.a.2, 9A515.a.3, or 9A515.a.4 'spacecraft;' 
-9A515.g.3,"g.3. Primary, secondary, or hosted payloads that perform a function of ECCN 9A515.a.1, 9A515.a.2, 9A515.a.3, or 9A515.a.4 'spacecraft.'"
+9A515.g.2,g.2. Optical bench assemblies “specially designed” for ECCN 9A515.a.1, 9A515.a.2, 9A515.a.3, or 9A515.a.4 “spacecraft;” 
+9A515.g.3,"g.3. Primary, secondary, or hosted payloads that perform a function of ECCN 9A515.a.1, 9A515.a.2, 9A515.a.3, or 9A515.a.4 “spacecraft.”"
 9A515.h,"h. Spacecraft thrusters using bi-propellants or mono-propellants that provide thrust equal to or less than 150 lbf ( 667.23 N) vacuum thrust."
-9A515.x,"x. 'Parts,' 'components,' 'accessories' and 'attachments' that are 'specially designed' for defense articles controlled by USML Category XV or items controlled by 9A515, and that are NOT:"
+9A515.x,"x. “Parts,” “components,” “accessories” and “attachments” that are “specially designed” for defense articles controlled by USML Category XV or items controlled by 9A515, and that are NOT:"
 9A515.x.1,"x.1. Enumerated or controlled in the USML or elsewhere within ECCNs 9A515 or 9A004;"
 9A515.x.2,"x.2. Microelectronic circuits and discrete electronic components;"
 9A515.x.3,"x.3. Described in ECCNs 7A004 or 7A104;"
-9A515.x.4,"x.4. Described in an ECCN containing 'space-qualified' as a control criterion ( 3A001.b.1, 3A001.e.4 or .z, 3A002.g.1, 3A991.o, 3A992.b.3, 6A002.a.1, 6A002.b.2, 6A002.d.1, 6A004.c and .d, 6A008.j.1, 6A998.b, or 7A003.d.2);"
+9A515.x.4,"x.4. Described in an ECCN containing “space-qualified” as a control criterion ( 3A001.b.1, 3A001.e.4 or .z, 3A002.g.1, 3A991.o, 3A992.b.3, 6A002.a.1, 6A002.b.2, 6A002.d.1, 6A004.c and .d, 6A008.j.1, 6A998.b, or 7A003.d.2);"
 9A515.x.5,"x.5. Microwave solid state amplifiers and microwave assemblies (refer to ECCN 3A001.b.4 and .z for controls on these items);"
 9A515.x.6,x.6. Travelling wave tube amplifiers (refer to ECCN 3A001.b.8 and .z for controls on these items); 
 9A515.x.7,"x.7. Elsewhere specified in ECCN 9A515.y."
@@ -140,12 +140,12 @@ Id,Description
 9A515.y.5,y.5. Space grade or for spacecraft applications subminiature (SMA and SMP) plugs and connectors, TNC plugs and cable and connector assemblies with SMA plugs and connectors; 
 9A515.y.6,"y.6. Space grade or for spacecraft applications flight cable assemblies."
 9A604,9A604 Commodities related to launch vehicles, missiles, and rockets (see List of Items Controlled).
-9A604.a," a. Thermal batteries 'specially designed' for systems controlled under USML Category IV capable of a range equal to or greater than 300 km."
-9A604.b,"b. Thermal batteries, except for thermal batteries controlled by 9A604.a, that are 'specially designed' for systems controlled under USML Category IV."
-9A604.c,"c. 'Components' 'specially designed' for ramjet, scramjet, pulse jet, or combined cycle engines controlled under USML Category IV, including devices to regulate combustion in such commodities."
-9A604.d,"d. 'Components' 'specially designed' for hybrid rocket motors controlled under USML Category IV usable in rockets, missiles, or unmanned aerial vehicles capable of a range equal to or greater than 300 km."
-9A604.e,"e. 'Components' 'specially designed' for pressure gain combustion-based propulsion systems controlled under USML Category IV."
-9A604.f,"f. Composite structures, laminates and manufactures thereof 'specially designed' for the following items controlled under USML Category IV:"
+9A604.a," a. Thermal batteries “specially designed” for systems controlled under USML Category IV capable of a range equal to or greater than 300 km."
+9A604.b,"b. Thermal batteries, except for thermal batteries controlled by 9A604.a, that are “specially designed” for systems controlled under USML Category IV."
+9A604.c,"c. “Components” “specially designed” for ramjet, scramjet, pulse jet, or combined cycle engines controlled under USML Category IV, including devices to regulate combustion in such commodities."
+9A604.d,"d. “Components” “specially designed” for hybrid rocket motors controlled under USML Category IV usable in rockets, missiles, or unmanned aerial vehicles capable of a range equal to or greater than 300 km."
+9A604.e,"e. “Components” “specially designed” for pressure gain combustion-based propulsion systems controlled under USML Category IV."
+9A604.f,"f. Composite structures, laminates and manufactures thereof “specially designed” for the following items controlled under USML Category IV:"
 9A604.f.1,"f.1. Systems capable of a range equal to or greater than 300 km;"
 9A604.f.2,"f.2. Individual rocket stages usable in 9A604.f.1. systems;"
 9A604.f.3,"f.3. Solid propellant rocket motors or hybrid rocket motors having a total impulse capacity equal to or greater than 8.41 × 10 Ns; or"
@@ -153,23 +153,23 @@ Id,Description
 9A604.f.5,"f.5. Thrust vector control systems usable in rockets, space launch vehicles (SLVs), and missiles capable of delivering at least a 500 kg payload to a range of at least 300 km."
 9A604.f.6,"f.6. Re-entry vehicles or warhead heat shields usable in rockets, SLVs, and missiles capable of delivering at least a 500 kg payload to a range of at least 300 km."
 9A604.f.7,"f.7. Safing, arming, fuzing, and firing components usable in rockets, SLVs, and missiles capable of delivering at least a 500 kg payload to a range of at least 300 km."
-9A604.x,"x. 'Parts,' 'components,' 'accessories,' and 'attachments' that are 'specially designed' for a commodity subject to control in paragraphs .a through .d of this ECCN, or a defense article controlled under USML Category IV, and not specified elsewhere on the USML."
+9A604.x,"x. “Parts,” “components,” “accessories,” and “attachments” that are “specially designed” for a commodity subject to control in paragraphs .a through .d of this ECCN, or a defense article controlled under USML Category IV, and not specified elsewhere on the USML."
 9A610,9A610 Military Aircraft and Related Commodities, Other Than Those Enumerated in 9A991.a (See List of Items Controlled).
-9A610.a,"a. 'Military Aircraft' 'specially designed' for a military use that are not enumerated in USML paragraph VIII(a)."
+9A610.a,"a. 'Military Aircraft' “specially designed” for a military use that are not enumerated in USML paragraph VIII(a)."
 9A610.b,"b. L-100 aircraft manufactured prior to 2013."
 9A610.e,"e. Mobile aircraft arresting and engagement runway systems for aircraft controlled by either USML Category VIII(a) or ECCN 9A610.a."
-9A610.f,"f. Pressure refueling equipment and equipment that facilitates operations in confined areas, 'specially designed' for aircraft controlled by either USML paragraph VIII(a) or ECCN 9A610.a."
+9A610.f,"f. Pressure refueling equipment and equipment that facilitates operations in confined areas, “specially designed” for aircraft controlled by either USML paragraph VIII(a) or ECCN 9A610.a."
 9A610.g,"g. Aircrew life support equipment, aircrew safety equipment and other devices for emergency escape from aircraft controlled by either USML paragraph VIII(a) or ECCN 9A610.a."
-9A610.h,"h. Parachutes, paragliders, complete parachute canopies, harnesses, platforms, electronic release mechanisms, 'specially designed' for use with aircraft controlled by either USML paragraph VIII(a) or ECCN 9A610.a, and 'equipment' 'specially designed' for military high altitude parachutists, such as suits, special helmets, breathing systems, and navigation equipment."
+9A610.h,"h. Parachutes, paragliders, complete parachute canopies, harnesses, platforms, electronic release mechanisms, “specially designed” for use with aircraft controlled by either USML paragraph VIII(a) or ECCN 9A610.a, and “equipment” “specially designed” for military high altitude parachutists, such as suits, special helmets, breathing systems, and navigation equipment."
 9A610.i,"i. Controlled opening equipment or automatic piloting systems, designed for parachuted loads."
-9A610.j,"j. Ground effect machines (GEMS), including surface effect machines and air cushion vehicles, 'specially designed' for use by a military."
-9A610.t,"t. Composite structures, laminates, and manufactures thereof 'specially designed' for unmanned aerial vehicles controlled under USML Category VIII(a) with a range equal to or greater than 300 km."
-9A610.u,"u. Apparatus and devices 'specially designed' for the handling, control, activation and non-ship-based launching of UAVs controlled by either USML paragraph VIII(a) or ECCN 9A610.a, and capable of a range equal to or greater than 300 km."
+9A610.j,"j. Ground effect machines (GEMS), including surface effect machines and air cushion vehicles, “specially designed” for use by a military."
+9A610.t,"t. Composite structures, laminates, and manufactures thereof “specially designed” for unmanned aerial vehicles controlled under USML Category VIII(a) with a range equal to or greater than 300 km."
+9A610.u,"u. Apparatus and devices “specially designed” for the handling, control, activation and non-ship-based launching of UAVs controlled by either USML paragraph VIII(a) or ECCN 9A610.a, and capable of a range equal to or greater than 300 km."
 9A610.v,"v. Radar altimeters designed or modified for use in UAVs controlled by either USML paragraph VIII(a) or ECCN 9A610.a., and capable of delivering at least 500 kilograms payload to a range of at least 300 km."
 9A610.w.1,"w.1. Pneumatic hydraulic, mechanical, electro-optical, or electromechanical flight control systems (including fly-by-wire and fly-by-light systems) and attitude control equipment designed or modified for UAVs controlled by either USML paragraph VIII(a) or ECCN 9A610.a., and capable of delivering at least 500 kilograms payload to a range of at least 300 km."
 9A610.w.2,"w.2. Flight control servo valves designed or modified for the systems in 9A610.w.1. and designed or modified to operate in a vibration environment greater than 10g rms over the entire range between 20Hz and 2 kHz."
-9A610.x,"x. 'Parts,' 'components,' 'accessories,' and 'attachments' that are 'specially designed' for a commodity enumerated or otherwise described in ECCN 9A610 (except for 9A610.y) or a defense article enumerated or otherwise described in USML Category VIII and not elsewhere specified on the USML or in 9A610.y, 9A619.y, or 3A611.y."
-9A610.y,"y. Specific 'parts,' 'components,' 'accessories,' and 'attachments' 'specially designed' for a commodity subject to control in this entry, ECCN 9A619, or for a defense article in USML Categories VIII or XIX and not elsewhere specified in the USML or the CCL, and other aircraft commodities 'specially designed' for a military use, as follows, and 'parts,' 'components,' 'accessories,' and 'attachments' 'specially designed' therefor:"
+9A610.x,"x. “Parts,” “components,” “accessories,” and “attachments” that are “specially designed” for a commodity enumerated or otherwise described in ECCN 9A610 (except for 9A610.y) or a defense article enumerated or otherwise described in USML Category VIII and not elsewhere specified on the USML or in 9A610.y, 9A619.y, or 3A611.y."
+9A610.y,"y. Specific “parts,” “components,” “accessories,” and “attachments” “specially designed” for a commodity subject to control in this entry, ECCN 9A619, or for a defense article in USML Categories VIII or XIX and not elsewhere specified in the USML or the CCL, and other aircraft commodities “specially designed” for a military use, as follows, and “parts,” “components,” “accessories,” and “attachments” “specially designed” therefor:"
 9A610.y.1,"y.1. Aircraft tires;"
 9A610.y.2,"y.2. Analog gauges and indicators;"
 9A610.y.3,"y.3. Audio selector panels;"
@@ -199,18 +199,18 @@ Id,Description
 9A610.y.27,"y.27. Flame and smoke/CO detectors;"
 9A610.y.28,"y.28. Map cases;"
 9A610.y.29,"y.29. 'Military Aircraft' that were first manufactured from 1946 to 1955 that do not incorporate defense articles enumerated or otherwise described on the U.S. Munitions List, unless the items are required to meet safety or airworthiness standards of a Wassenaar Arrangement Participating State; and do not incorporate weapons enumerated or otherwise described on the U.S. Munitions List, unless inoperable and incapable of being returned to operation;"
-9A610.y.30,"y.30. 'Parts,' 'components,' 'accessories,' and 'attachments,' other than electronic items or navigation equipment, for use in or with a commodity controlled by ECCN 9A610.h;"
+9A610.y.30,"y.30. “Parts,” “components,” “accessories,” and “attachments,” other than electronic items or navigation equipment, for use in or with a commodity controlled by ECCN 9A610.h;"
 9A610.y.31,y.31. Identification plates and nameplates; 
 9A610.y.32,"y.32. Fluid manifolds."
 9A619,9A619 Military gas turbine engines and related commodities (see List of Items Controlled).
-9A619.a,"a. 'Military Gas Turbine Engines' 'specially designed' for a military use that are not controlled in USML Category XIX(a), (b), (c), or (d)."
-9A619.b,"b. Digital engine controls ( Full Authority Digital Engine Controls (FADEC) and Digital Electronic Engine Controls (DEEC)) 'specially designed' for gas turbine engines controlled in this ECCN 9A619."
-9A619.c,"c. If 'specially designed' for gas turbine engines controlled in 9A619.a, hot section components ( combustion chambers and liners; high pressure turbine blades, vanes, disks and related cooled structure; cooled low pressure turbine blades, vanes, disks and related cooled structure; cooled augmenters; and cooled nozzles);"
-9A619.d,"d. If 'specially designed' for gas turbine engines controlled in 9A619.a, uncooled turbine blades, vanes, disks, and tip shrouds;"
-9A619.e,"e. If 'specially designed' for gas turbine engines controlled in 9A619.a, combustor cowls, diffusers, domes, and shells;"
-9A619.f,"f. Engine monitoring systems ( those that conduct prognostics, diagnostics, and monitor health) 'specially designed' for gas turbine engines and components controlled in this ECCN 9A619."
-9A619.x,"x. Parts,' 'components,' 'accessories,' and 'attachments' that are 'specially designed' for a commodity controlled by this ECCN 9A619 (other than ECCN 9A619.c) or for a defense article enumerated in USML Category XIX and not specified elsewhere on the USML or in ECCN 3A611.y, 9A610.y or 9A619.y."
-9A619.y,"y. Specific 'parts,' 'components,' 'accessories,' and 'attachments' 'specially designed' for a commodity subject to control in this entry, ECCN 9A610, or for a defense article in USML Category VIII or Category XIX and not elsewhere specified on the USML or in the CCL, and other commodities, as follows, and 'parts,' 'components,' 'accessories,' and 'attachments' 'specially designed' therefor:"
+9A619.a,"a. “Military Gas Turbine Engines” “specially designed” for a military use that are not controlled in USML Category XIX(a), (b), (c), or (d)."
+9A619.b,"b. Digital engine controls ( Full Authority Digital Engine Controls (FADEC) and Digital Electronic Engine Controls (DEEC)) “specially designed” for gas turbine engines controlled in this ECCN 9A619."
+9A619.c,"c. If “specially designed” for gas turbine engines controlled in 9A619.a, hot section components ( combustion chambers and liners; high pressure turbine blades, vanes, disks and related cooled structure; cooled low pressure turbine blades, vanes, disks and related cooled structure; cooled augmenters; and cooled nozzles);"
+9A619.d,"d. If “specially designed” for gas turbine engines controlled in 9A619.a, uncooled turbine blades, vanes, disks, and tip shrouds;"
+9A619.e,"e. If “specially designed” for gas turbine engines controlled in 9A619.a, combustor cowls, diffusers, domes, and shells;"
+9A619.f,"f. Engine monitoring systems ( those that conduct prognostics, diagnostics, and monitor health) “specially designed” for gas turbine engines and components controlled in this ECCN 9A619."
+9A619.x,"x. Parts,” “components,” “accessories,” and “attachments” that are “specially designed” for a commodity controlled by this ECCN 9A619 (other than ECCN 9A619.c) or for a defense article enumerated in USML Category XIX and not specified elsewhere on the USML or in ECCN 3A611.y, 9A610.y or 9A619.y."
+9A619.y,"y. Specific “parts,” “components,” “accessories,” and “attachments” “specially designed” for a commodity subject to control in this entry, ECCN 9A610, or for a defense article in USML Category VIII or Category XIX and not elsewhere specified on the USML or in the CCL, and other commodities, as follows, and “parts,” “components,” “accessories,” and “attachments” “specially designed” therefor:"
 9A619.y.1,"y.1. Oil tank and reservoirs;"
 9A619.y.2,"y.2. Oil lines and tubes;"
 9A619.y.3,"y.3. Fluid hoses, and lines (for a commodity subject to control in this entry or a defense article in USML Category XIX), fittings, couplings, and brackets therefor;"
@@ -220,54 +220,54 @@ Id,Description
 9A619.y.7,"y.7. Identification plates and nameplates;"
 9A619.y.8,"y.8. Fluid manifolds; and"
 9A619.y.9,"y.9. Check valves for fluid systems."
-9A620,9A620 Cryogenic and 'superconductive' equipment, as follows (see list of items controlled).
-9A620.a," a. Equipment 'specially designed' to be installed in a vehicle for military ground, marine, airborne, or space applications, and capable of operating while in motion and of producing or maintaining temperatures below 103 K (−170 °C)."
-9A620.b,"b. 'Superconductive' electrical equipment (rotating machinery and transformers) 'specially designed' to be installed in a vehicle for military ground, marine, airborne, or space applications, and capable of operating while in motion."
-9A620.x,"x. 'Parts,' 'components,' 'accessories' and 'attachments' that are 'specially designed' for a commodity controlled by ECCN 9A620."
+9A620,9A620 Cryogenic and “superconductive” equipment, as follows (see list of items controlled).
+9A620.a," a. Equipment “specially designed” to be installed in a vehicle for military ground, marine, airborne, or space applications, and capable of operating while in motion and of producing or maintaining temperatures below 103 K (−170 °C)."
+9A620.b,"b. “Superconductive” electrical equipment (rotating machinery and transformers) “specially designed” to be installed in a vehicle for military ground, marine, airborne, or space applications, and capable of operating while in motion."
+9A620.x,"x. “Parts,” “components,” “accessories” and “attachments” that are “specially designed” for a commodity controlled by ECCN 9A620."
 9A980,9A980 Nonmilitary mobile crime science laboratories; and accessories, n.e.s.
-9A990,9A990 Diesel engines, n.e.s., and tractors and 'specially designed' 'parts' and 'components' therefor, n.e.s. (see List of Items Controlled).
+9A990,9A990 Diesel engines, n.e.s., and tractors and “specially designed” “parts” and “components” therefor, n.e.s. (see List of Items Controlled).
 9A990.a," a. Diesel engines, n.e.s., for trucks, tractors, and automotive applications of continuous brake horsepower of 400 BHP (298 kW) or greater (performance based on SAE J1349 standard conditions of 100 Kpa and 25°)"
-9A990.b,"b. Off highway wheel tractors of carriage capacity 9 mt (20,000 lbs) or more; and major 'components' and accessories, n.e.s."
-9A990.c,"c. On-Highway tractors, with single or tandem rear axles rated for 9 mt per axel (20,000 lbs.) or greater and 'specially designed' major 'components'."
-9A991,9A991 'Aircraft,' n.e.s., and gas turbine engines not controlled by 9A001 or 9A101 and 'parts' and 'components,' n.e.s. (see List of Items Controlled).
+9A990.b,"b. Off highway wheel tractors of carriage capacity 9 mt (20,000 lbs) or more; and major “components” and accessories, n.e.s."
+9A990.c,"c. On-Highway tractors, with single or tandem rear axles rated for 9 mt per axel (20,000 lbs.) or greater and “specially designed” major “components”."
+9A991,9A991 “Aircraft,” n.e.s., and gas turbine engines not controlled by 9A001 or 9A101 and “parts” and “components,” n.e.s. (see List of Items Controlled).
 9A991.a," a. Military aircraft, demilitarized (not specifically equipped or modified for military operation), as follows:"
-9A991.a.1,"a.1 Cargo aircraft bearing 'C' designations and numbered C-45 through C-118 inclusive, C-121 through C-125 inclusive, and C-131, using reciprocating engines only."
-9A991.a.2,"a.2 Trainer aircraft bearing 'T' designations and using reciprocating engines or turboprop engines with less than 600 horsepower (s.h.p.)."
-9A991.a.3,"a.3 Utility aircraft bearing 'U' designations and using reciprocating engines only."
-9A991.a.4,"a.4 All liaison aircraft bearing an 'L' designation."
-9A991.a.5,"a.5 All observation aircraft bearing 'O' designations and using reciprocating engines."
+9A991.a.1,"a.1 Cargo aircraft bearing “C” designations and numbered C-45 through C-118 inclusive, C-121 through C-125 inclusive, and C-131, using reciprocating engines only."
+9A991.a.2,"a.2 Trainer aircraft bearing “T” designations and using reciprocating engines or turboprop engines with less than 600 horsepower (s.h.p.)."
+9A991.a.3,"a.3 Utility aircraft bearing “U” designations and using reciprocating engines only."
+9A991.a.4,"a.4 All liaison aircraft bearing an “L” designation."
+9A991.a.5,"a.5 All observation aircraft bearing “O” designations and using reciprocating engines."
 9A991.b,"b. Aircraft n.e.s.;"
-9A991.c,"c. Aero gas turbine engines, and 'parts' and 'components' 'specially designed' therefor."
-9A991.d,"d. 'Parts' and 'components,' 'specially designed' for 'aircraft,' n.e.s."
-9A991.e,"e. Pressurized aircraft breathing equipment, n.e.s.;  'parts' and 'components' 'specially designed' therefor, n.e.s."
+9A991.c,"c. Aero gas turbine engines, and “parts” and “components” “specially designed” therefor."
+9A991.d,"d. “Parts” and “components,” “specially designed” for “aircraft,” n.e.s."
+9A991.e,"e. Pressurized aircraft breathing equipment, n.e.s.;  “parts” and “components” “specially designed” therefor, n.e.s."
 9A992,9A992 Complete canopies, harnesses, and platforms and electronic release mechanisms therefor, except such types as are in normal sporting use.
-9B,"B. 'Test', 'Inspection' and 'Production Equipment'"
+9B,"B. “Test”, “Inspection” and “Production Equipment”"
 9B001,9B001 Manufacturing equipment, tooling or fixtures, as follows (See List of Items Controlled).
-9B001.a,"a. Directional solidification or single crystal casting equipment designed for 'superalloys';"
-9B001.b,"b. Casting tooling, 'specially designed' for manufacturing gas turbine engine blades, vanes or 'tip shrouds', manufactured from refractory metals or ceramics, as follows:"
+9B001.a,"a. Directional solidification or single crystal casting equipment designed for “superalloys”;"
+9B001.b,"b. Casting tooling, “specially designed” for manufacturing gas turbine engine blades, vanes or “tip shrouds”, manufactured from refractory metals or ceramics, as follows:"
 9B001.b.1,"b.1. Cores;"
 9B001.b.2,"b.2. Shells (moulds);"
 9B001.b.3,"b.3. Combined core and shell (mould) units;"
-9B001.c,"c. Directional-solidification or single-crystal additive-manufacturing equipment designed for 'superalloys'."
+9B001.c,"c. Directional-solidification or single-crystal additive-manufacturing equipment designed for “superalloys”."
 9B002,9B002 On-line (real time) control systems, instrumentation (including sensors) or automated data acquisition and processing equipment, having all of the following (see List of Items Controlled).
-9B002.a, a. 'Specially designed' for the 'development' of gas turbine engines, assemblies, 'parts' or 'components'; 
-9B002.b,"b. Incorporating any of the 'technologies' controlled by 9E003.h or 9E003.i."
-9B003,9B003 Equipment 'specially designed' for the 'production' or test of gas turbine brush seals designed to operate at tip speeds exceeding 335 m/s, and temperatures in excess of 773 K (500 °C), and 'specially designed' 'components' or 'accessories' therefor.
-9B004,9B004 Tools, dies or fixtures, for the solid state joining of 'superalloy', titanium or intermetallic airfoil-to-disk combinations described in 9E003.a.3 or 9E003.a.6 for gas turbines.
-9B005,9B005 On-line (real time) control systems, instrumentation (including sensors) or automated data acquisition and processing equipment, 'specially designed' for use with any of the following (see List of Items Controlled).
+9B002.a, a. “Specially designed” for the “development” of gas turbine engines, assemblies, “parts” or “components”; 
+9B002.b,"b. Incorporating any of the “technologies” controlled by 9E003.h or 9E003.i."
+9B003,9B003 Equipment “specially designed” for the “production” or test of gas turbine brush seals designed to operate at tip speeds exceeding 335 m/s, and temperatures in excess of 773 K (500 °C), and “specially designed” “components” or “accessories” therefor.
+9B004,9B004 Tools, dies or fixtures, for the solid state joining of “superalloy”, titanium or intermetallic airfoil-to-disk combinations described in 9E003.a.3 or 9E003.a.6 for gas turbines.
+9B005,9B005 On-line (real time) control systems, instrumentation (including sensors) or automated data acquisition and processing equipment, “specially designed” for use with any of the following (see List of Items Controlled).
 9B005.a,"a. Wind tunnels designed for speeds of Mach 1.2 or more;"
 9B005.b,b. Devices for simulating flow-environments at speeds exceeding Mach 5, including hot-shot tunnels, plasma arc tunnels, shock tubes, shock tunnels, gas tunnels and light gas guns; 
 9B005.c,"c. Wind tunnels or devices, other than two-dimensional sections, capable of simulating Reynolds number flows exceeding 25 × 10."
-9B006,9B006 Acoustic vibration test equipment capable of producing sound pressure levels of 160 Db or more (referenced to 20 uPa) with a rated output of 4 kW or more at a test cell temperature exceeding 1,273 K (1,000 °C), and 'specially designed' quartz heaters therefor.
-9B007,9B007 Equipment 'specially designed' for inspecting the integrity of rocket motors and using Non-Destructive Test (NDT) techniques other than planar x-ray or basic physical or chemical analysis.
-9B008,9B008 Direct measurement wall skin friction transducers 'specially designed' to operate at a test flow total (stagnation) temperature exceeding 833 K (560 °C)).
-9B009,9B009 Tooling 'specially designed' for producing gas turbine engine powder metallurgy rotor 'parts' or 'components' having all of the following (see List of Items Controlled).
+9B006,9B006 Acoustic vibration test equipment capable of producing sound pressure levels of 160 Db or more (referenced to 20 uPa) with a rated output of 4 kW or more at a test cell temperature exceeding 1,273 K (1,000 °C), and “specially designed” quartz heaters therefor.
+9B007,9B007 Equipment “specially designed” for inspecting the integrity of rocket motors and using Non-Destructive Test (NDT) techniques other than planar x-ray or basic physical or chemical analysis.
+9B008,9B008 Direct measurement wall skin friction transducers “specially designed” to operate at a test flow total (stagnation) temperature exceeding 833 K (560 °C)).
+9B009,9B009 Tooling “specially designed” for producing gas turbine engine powder metallurgy rotor “parts” or “components” having all of the following (see List of Items Controlled).
 9B009.a, a. Designed to operate at stress levels of 60% of Ultimate Tensile Strength (UTS) or more measured at a temperature of 873 K (600 °C); 
 9B009.b,"b. Designed to operate at a temperature of 873 K (600 °C) or more."
-9B010,9B010 Equipment 'Specially Designed' for the Production of Items Specified by 9A012.
-9B104,9B104 'Aerothermodynamic test facilities', usable for rockets, missiles, or unmanned aerial vehicles capable of achieving a 'range' equal to or greater than 300 km and their subsystems, and having an electrical power supply equal to or greater than 5 MW or a gas supply total pressure equal to or greater than 3 MPa.
-9B105,9B105 ‘Aerodynamic test facilities’ for speeds of Mach 0.9 or more, usable for rockets, missiles, or unmanned aerial vehicles capable of achieving a 'range' equal to or greater than 300 km and their subsystems.
-9B106,9B106 Environmental chambers usable for rockets, missiles, or unmanned aerial vehicles capable of achieving a 'range' equal to or greater than 300 km and their subsystems, as follows (see List of Items Controlled).
+9B010,9B010 Equipment “Specially Designed” for the Production of Items Specified by 9A012.
+9B104,9B104 'Aerothermodynamic test facilities', usable for rockets, missiles, or unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km and their subsystems, and having an electrical power supply equal to or greater than 5 MW or a gas supply total pressure equal to or greater than 3 MPa.
+9B105,9B105 ‘Aerodynamic test facilities’ for speeds of Mach 0.9 or more, usable for rockets, missiles, or unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km and their subsystems.
+9B106,9B106 Environmental chambers usable for rockets, missiles, or unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km and their subsystems, as follows (see List of Items Controlled).
 9B106.a," a. Environmental chambers having all of the following characteristics:"
 9B106.a.1,"a.1. Capable of simulating any of the following flight conditions:"
 9B106.a.1.a,"a.1.a. Altitude equal to or greater than 15,000 m; or"
@@ -278,157 +278,158 @@ Id,Description
 9B106.b.2,"b.2. Any of the following:"
 9B106.b.2.a,"b.2.a. Altitude equal to or greater than 15,000 m; or"
 9B106.b.2.b,"b.2.b. Temperature range of at least −50 °C to + 125 °C."
-9B115,9B115 'Specially designed' production 'equipment' for systems, sub-systems and 'components' controlled by ECCN 9A101 or by USML Category IV(d)(2), (d)(3), (d)(4), or (h)(17).
-9B116,9B116 'Specially designed' 'production facilities' for systems, sub-systems, and 'components' controlled by ECCN 9A012 (applies to MT-controlled items only) or 9A101 or by USML Category IV(d)(2), (d)(3), (d)(4), or (h)(17).
+9B115,9B115 “Specially designed” production “equipment” for systems, sub-systems and “components” controlled by ECCN 9A101 or by USML Category IV(d)(2), (d)(3), (d)(4), or (h)(17).
+9B116,9B116 “Specially designed” “production facilities” for systems, sub-systems, and “components” controlled by ECCN 9A012 (applies to MT-controlled items only) or 9A101 or by USML Category IV(d)(2), (d)(3), (d)(4), or (h)(17).
 9B117,9B117 Test Benches and Test Stands for Solid or Liquid Propellant Rockets, Motors or Rocket Engines, Having Either of the Following Characteristics (see List of Items Controlled).
 9B117.a," a. The capacity to handle solid or liquid propellant rocket motors or rocket engines having a thrust greater than 68 kN; or"
 9B117.b,"b. Capable of simultaneously measuring the three axial thrust components."
-9B515,9B515 Test, inspection, and production 'equipment' 'specially designed' for 'spacecraft' and related commodities, as follows (see List of Items Controlled).
-9B515.a," a. Test, inspection, and production 'equipment' 'specially designed' for the 'production' or 'development' of commodities enumerated in ECCNs 9A004.u, 9A515.a, or USML Category XV(a) or XV(e)."
-9B515.b,"b. Environmental test chambers capable of pressures below (10) Torr, and 'specially designed' for commodities enumerated in 9A515.a or USML Category XV(a)."
-9B604,9B604 Test, inspection, and production 'equipment' and related commodities 'specially designed' for the 'development,' 'production,' repair, overhaul, or refurbishing of commodities in ECCN 9A604 or related defense articles in USML Category IV (see List of Items Controlled).
-9B604.a," a. 'Production facilities' 'specially designed' for items that are controlled by USML Category IV(a)(1) or (a)(2)."
-9B604.b,"b. Test, calibration, and alignment equipment 'specially designed' for items that are controlled by USML Category IV(h)(28)."
-9B604.c,"c. Test, inspection, and other production 'equipment' that is 'specially designed' for the 'development,' 'production,' repair, overhaul, or refurbishing of commodities described in ECCN 9A604, or defense articles controlled under USML Category IV, and not specified in ECCN 0B604.a or in ECCN 9B604.a, .b, or .d."
-9B604.d,"d. 'Specially designed' 'production facilities' or production 'equipment' for systems, sub-systems, and 'components' controlled by USML Category IV(d)(1), (d)(7), (h)(1), (h)(4), (h)(6), (h)(7), (h)(8), (h)(9), (h)(11), (h)(20), (h)(21), (h)(26), or (h)(28)."
-9B604.x,"x. 'Parts,' 'components,' 'accessories,' and 'attachments' that are 'specially designed' for a commodity subject to control in paragraph .a or .b of this ECCN."
-9B610,9B610 Test, inspection, and production 'equipment' and related commodities 'specially designed' for the 'development' or 'production' of commodities enumerated or otherwise described in ECCN 9A610 or USML Category VIII (see List of Items Controlled).
-9B610.a," a. Test, inspection, and production 'equipment' 'specially designed' for the 'production,' 'development,' operation, installation, maintenance, repair, overhaul, or refurbishing of commodities enumerated or otherwise described in ECCN 9A610 (except 9A610.y) or USML Category VIII, and 'parts,' 'components,' 'accessories,' and 'attachments' 'specially designed' therefor."
-9B610.b,"b. Environmental test facilities 'specially designed' for the certification, qualification, or testing of commodities enumerated or otherwise described in ECCN 9A610 (except for 9A610.y) or USML Category VIII and 'parts,' 'components,' 'accessories,' and 'attachments' 'specially designed' therefor."
-9B610.c,"c. 'Production facilities' designed or modified for UAVs or drones that are (i) controlled by either USML paragraph VIII(a) or ECCN 9A610.a and (ii) capable of a range equal to or greater than 300 km."
-9B619,9B619 Test, inspection, and production 'equipment' and related commodities 'specially designed' for the 'development' or 'production' of commodities enumerated or otherwise described in ECCN 9A619 or USML Category XIX (see List of Items Controlled).
-9B619.a,"a. Test, inspection, and production 'equipment' 'specially designed' for the 'production,' 'development,' operation, installation, maintenance, repair, overhaul, or refurbishing of commodities enumerated or otherwise described in ECCN 9A619 (except for 9A619.y) or in USML Category XIX, and 'parts,' 'components,' 'accessories,' and 'attachments' 'specially designed' therefor."
-9B619.b,"b. Equipment, cells, or stands 'specially designed' for testing, analysis and fault isolation of engines, 'systems,' 'components,' 'parts,' 'accessories,' and 'attachments' enumerated or otherwise described in ECCN 9A619 (except for 9A619.y) on the CCL or in Category XIX on the USML."
-9B619.y,"y. Bearing pullers 'specially designed' for the 'production' or 'development' of commodities enumerated or otherwise described in ECCN 9A619 (except for 9A619.y) or USML Category XIX and 'parts,' 'components,' 'accessories,' and 'attachments' 'specially designed' therefor."
-9B620,9B620 Test, inspection, and production commodities for cryogenic and 'superconductive' equipment (see List of Items controlled).
-9B620.a," a. Test, inspection, and production end items and equipment 'specially designed' for the 'development,' 'production,' repair, overhaul or refurbishing of items controlled in ECCN 9A620."
-9B990,9B990 Vibration test equipment and 'specially designed' 'parts' and 'components,' n.e.s.
-9B991,9B991 'Specially designed' 'equipment,' tooling or fixtures, not controlled by 9B001, for manufacturing or measuring gas turbine blades, vanes or tip shroud castings, as follows (see List of Items Controlled).
+9B515,9B515 Test, inspection, and production “equipment” “specially designed” for “spacecraft” and related commodities, as follows (see List of Items Controlled).
+9B515.a," a. Test, inspection, and production “equipment” “specially designed” for the “production” or “development” of commodities enumerated in ECCNs 9A004.u, 9A515.a, or USML Category XV(a) or XV(e)."
+9B515.b,"b. Environmental test chambers capable of pressures below (10) Torr, and “specially designed” for commodities enumerated in 9A515.a or USML Category XV(a)."
+9B604,9B604 Test, inspection, and production “equipment” and related commodities “specially designed” for the “development,” “production,” repair, overhaul, or refurbishing of commodities in ECCN 9A604 or related defense articles in USML Category IV (see List of Items Controlled).
+9B604.a," a. “Production facilities” “specially designed” for items that are controlled by USML Category IV(a)(1) or (a)(2)."
+9B604.b,"b. Test, calibration, and alignment equipment “specially designed” for items that are controlled by USML Category IV(h)(28)."
+9B604.c,"c. Test, inspection, and other production “equipment” that is “specially designed” for the “development,” “production,” repair, overhaul, or refurbishing of commodities described in ECCN 9A604, or defense articles controlled under USML Category IV, and not specified in ECCN 0B604.a or in ECCN 9B604.a, .b, or .d."
+9B604.d,"d. “Specially designed” “production facilities” or production “equipment” for systems, sub-systems, and “components” controlled by USML Category IV(d)(1), (d)(7), (h)(1), (h)(4), (h)(6), (h)(7), (h)(8), (h)(9), (h)(11), (h)(20), (h)(21), (h)(26), or (h)(28)."
+9B604.x,"x. “Parts,” “components,” “accessories,” and “attachments” that are “specially designed” for a commodity subject to control in paragraph .a or .b of this ECCN."
+9B610,9B610 Test, inspection, and production “equipment” and related commodities “specially designed” for the “development” or “production” of commodities enumerated or otherwise described in ECCN 9A610 or USML Category VIII (see List of Items Controlled).
+9B610.a," a. Test, inspection, and production “equipment” “specially designed” for the “production,” “development,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities enumerated or otherwise described in ECCN 9A610 (except 9A610.y) or USML Category VIII, and “parts,” “components,” “accessories,” and “attachments” “specially designed” therefor."
+9B610.b,"b. Environmental test facilities “specially designed” for the certification, qualification, or testing of commodities enumerated or otherwise described in ECCN 9A610 (except for 9A610.y) or USML Category VIII and “parts,” “components,” “accessories,” and “attachments” “specially designed” therefor."
+9B610.c,"c. “Production facilities” designed or modified for UAVs or drones that are (i) controlled by either USML paragraph VIII(a) or ECCN 9A610.a and (ii) capable of a range equal to or greater than 300 km."
+9B619,9B619 Test, inspection, and production “equipment” and related commodities “specially designed” for the “development” or “production” of commodities enumerated or otherwise described in ECCN 9A619 or USML Category XIX (see List of Items Controlled).
+9B619.a,"a. Test, inspection, and production “equipment” “specially designed” for the “production,” “development,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities enumerated or otherwise described in ECCN 9A619 (except for 9A619.y) or in USML Category XIX, and “parts,” “components,” “accessories,” and “attachments” “specially designed” therefor."
+9B619.b,"b. Equipment, cells, or stands “specially designed” for testing, analysis and fault isolation of engines, “systems,” “components,” “parts,” “accessories,” and “attachments” enumerated or otherwise described in ECCN 9A619 (except for 9A619.y) on the CCL or in Category XIX on the USML."
+9B619.y,"y. Bearing pullers “specially designed” for the “production” or “development” of commodities enumerated or otherwise described in ECCN 9A619 (except for 9A619.y) or USML Category XIX and “parts,” “components,” “accessories,” and “attachments” “specially designed” therefor."
+9B620,9B620 Test, inspection, and production commodities for cryogenic and “superconductive” equipment (see List of Items controlled).
+9B620.a," a. Test, inspection, and production end items and equipment “specially designed” for the “development,” “production,” repair, overhaul or refurbishing of items controlled in ECCN 9A620."
+9B990,9B990 Vibration test equipment and “specially designed” “parts” and “components,” n.e.s.
+9B991,9B991 “Specially designed” “equipment,” tooling or fixtures, not controlled by 9B001, for manufacturing or measuring gas turbine blades, vanes or tip shroud castings, as follows (see List of Items Controlled).
 9B991.a," a. Automated equipment using non-mechanical methods for measuring airfoil wall thickness;"
-9B991.b,"b. Tooling, fixtures or measuring equipment for the 'laser', water jet or ECM/EDM hole drilling processes controlled by 9E003.c;"
+9B991.b,"b. Tooling, fixtures or measuring equipment for the “laser”, water jet or ECM/EDM hole drilling processes controlled by 9E003.c;"
 9B991.c,"c. Ceramic core leaching equipment;"
 9B991.d,"d. Ceramic core manufacturing equipment or tools;"
 9B991.e,"e. Ceramic shell wax pattern preparation equipment;"
 9B991.f,"f. Ceramic shell burn out or firing equipment."
-9C,"C. 'Materials'"
-9C110,"9C110 Resin impregnated fiber prepregs and metal coated fiber preforms therefor, for composite structures, laminates and manufactures specified in 9A110, made either with organic matrix or metal matrix utilizing fibrous or filamentary reinforcements having a 'specific tensile strength' greater than 7.62 × 10"
-9C610,9C610 Materials 'specially designed' for commodities controlled by USML Category VIII or ECCN 9A610 and not elsewhere specified in the CCL or the USML (see List of Items Controlled).
-9C619,9C619 Materials 'specially designed' for commodities controlled by USML Category XIX or ECCN 9A619 and not elsewhere specified in the CCL or on the USML (see List of Items Controlled).
-9C619.a," a. Materials not controlled by paragraph .b of this entry and not elsewhere specified in the CCL or on the USML, and 'specially designed' for commodities enumerated or otherwise described in USML Category XIX or ECCN 9A619 (except 9A619.y)."
-9C619.b,"b. Materials 'specially designed' for use in certain gas turbine engines, as follows:"
-9C619.b.1,"b.1. Powders 'specially designed' for thermal or environmental barrier coating of defense articles enumerated or described in USML Category XIX paragraphs (f)(1)-(f)(4) for engines listed in (f)(1);"
-9C619.b.2,"b.2. Superalloys ( nickel, cobalt or iron based), used in directionally solidified or single crystal casting, 'specially designed' for defense articles enumerated or described in USML Category XIX paragraphs (f)(1)-(f)(4) for engines listed in paragraph (f)(1); or"
-9C619.b.3,"b.3. Imide matrix, metal matrix, or ceramic matrix composite material ( reinforcing fiber combined with a matrix) 'specially designed' for defense articles enumerated or described in USML Category XIX paragraphs (f)(1)-(f)(4) for engines listed in paragraph (f)(1)."
-9D,"D. 'Software'"
-9D001,9D001 'Software', not specified in 9D003 or 9D004, 'specially designed' or modified for the 'development' of equipment or 'technology' controlled by ECCN 9A001 to 9A004, 9A012, 9A101 (except for items in 9A101.b that are 'subject to the ITAR', see 22 CFR part 121), 9A106.d. or .e, 9A110, or 9A120, 9B (except for ECCNs 9B604, 9B610, 9B619, 9B990, and 9B991), or ECCN 9E003.
-9D002,9D002 'Software', not specified in 9D003 or 9D004, 'specially designed' or modified for the 'production' of equipment controlled by ECCN 9A001 to 9A004, 9A012, 9A101 (except for items in 9A101.b that are 'subject to the ITAR', see 22 CFR part 121), 9A106.d or .e, 9A110, or 9A120, 9B (except for ECCNs 9B604, 9B610, 9B619, 9B990, and 9B991).
-9D003,9D003 'Software' Incorporating 'Technology' Specified by ECCN 9E003.h and Used in 'FADEC Systems' for Systems Controlled by ECCN 9A001 to 9A003, 9A101 (Except for Items in 9A101.b That Are 'Subject to the ITAR', See 22 CFR Part 121), 9A106.d or .e, or 9B (Except for ECCNs 9B604, 9B610, 9B619, 9B990, and 9B991).
-9D004,9D004 Other 'software' as follows (see List of Items Controlled).
-9D004.a," a. 2D or 3D viscous 'software', validated with wind tunnel or flight test data required for detailed engine flow modelling;"
-9D004.b,"b. 'Software' for testing aero gas turbine engines, assemblies, 'parts' or 'components', having all of the following:"
-9D004.b.1,"b.1. 'Specially designed' for testing any of the following:"
-9D004.b.1.a,b.1.a. Aero gas turbine engines, assemblies or components, incorporating 'technology' specified by 9E003.a, 9E003.h or 9E003.i; 
-9D004.b.1.b,b.1.b. Multi-stage compressors providing either bypass or core flow, specially designed for aero gas turbine engines incorporating 'technology' specified by 9E003.a or 9E003.h; 
-9D004.b.2,"b.2. 'Specially designed' for all of the following:"
+9C,"C. “Materials”"
+9C110,"9C110 Resin impregnated fiber prepregs and metal coated fiber preforms therefor, for composite structures, laminates and manufactures specified in 9A110, made either with organic matrix or metal matrix utilizing fibrous or filamentary reinforcements having a “specific tensile strength” greater than 7.62 × 10"
+9C610,9C610 Materials “specially designed” for commodities controlled by USML Category VIII or ECCN 9A610 and not elsewhere specified in the CCL or the USML (see List of Items Controlled).
+9C610.a,9C610.a Materials not elsewhere specified in the USML or the CCL and “specially designed” for commodities enumerated or otherwise described in USML Category VIII or ECCN 9A610 (except 9A610.y).
+9C619,9C619 Materials “specially designed” for commodities controlled by USML Category XIX or ECCN 9A619 and not elsewhere specified in the CCL or on the USML (see List of Items Controlled).
+9C619.a," a. Materials not controlled by paragraph .b of this entry and not elsewhere specified in the CCL or on the USML, and “specially designed” for commodities enumerated or otherwise described in USML Category XIX or ECCN 9A619 (except 9A619.y)."
+9C619.b,"b. Materials “specially designed” for use in certain gas turbine engines, as follows:"
+9C619.b.1,"b.1. Powders “specially designed” for thermal or environmental barrier coating of defense articles enumerated or described in USML Category XIX paragraphs (f)(1)-(f)(4) for engines listed in (f)(1);"
+9C619.b.2,"b.2. Superalloys ( nickel, cobalt or iron based), used in directionally solidified or single crystal casting, “specially designed” for defense articles enumerated or described in USML Category XIX paragraphs (f)(1)-(f)(4) for engines listed in paragraph (f)(1); or"
+9C619.b.3,"b.3. Imide matrix, metal matrix, or ceramic matrix composite material ( reinforcing fiber combined with a matrix) “specially designed” for defense articles enumerated or described in USML Category XIX paragraphs (f)(1)-(f)(4) for engines listed in paragraph (f)(1)."
+9D,"D. “Software”"
+9D001,9D001 “Software”, not specified in 9D003 or 9D004, “specially designed” or modified for the “development” of equipment or “technology” controlled by ECCN 9A001 to 9A004, 9A012, 9A101 (except for items in 9A101.b that are “subject to the ITAR”, see 22 CFR part 121), 9A106.d. or .e, 9A110, or 9A120, 9B (except for ECCNs 9B604, 9B610, 9B619, 9B990, and 9B991), or ECCN 9E003.
+9D002,9D002 “Software”, not specified in 9D003 or 9D004, “specially designed” or modified for the “production” of equipment controlled by ECCN 9A001 to 9A004, 9A012, 9A101 (except for items in 9A101.b that are “subject to the ITAR”, see 22 CFR part 121), 9A106.d or .e, 9A110, or 9A120, 9B (except for ECCNs 9B604, 9B610, 9B619, 9B990, and 9B991).
+9D003,9D003 “Software” Incorporating “Technology” Specified by ECCN 9E003.h and Used in “FADEC Systems” for Systems Controlled by ECCN 9A001 to 9A003, 9A101 (Except for Items in 9A101.b That Are “Subject to the ITAR”, See 22 CFR Part 121), 9A106.d or .e, or 9B (Except for ECCNs 9B604, 9B610, 9B619, 9B990, and 9B991).
+9D004,9D004 Other “software” as follows (see List of Items Controlled).
+9D004.a," a. 2D or 3D viscous “software”, validated with wind tunnel or flight test data required for detailed engine flow modelling;"
+9D004.b,"b. “Software” for testing aero gas turbine engines, assemblies, “parts” or “components”, having all of the following:"
+9D004.b.1,"b.1. “Specially designed” for testing any of the following:"
+9D004.b.1.a,b.1.a. Aero gas turbine engines, assemblies or components, incorporating “technology” specified by 9E003.a, 9E003.h or 9E003.i; 
+9D004.b.1.b,b.1.b. Multi-stage compressors providing either bypass or core flow, specially designed for aero gas turbine engines incorporating “technology” specified by 9E003.a or 9E003.h; 
+9D004.b.2,"b.2. “Specially designed” for all of the following:"
 9D004.b.2.a,b.2.a. Acquisition and processing of data, in real time; 
 9D004.b.2.b,"b.2.b. Feedback control of the test article or test conditions ( temperature, pressure, flow rate) while the test is in progress;"
-9D004.c,"c. 'Software' 'specially designed' to control directional solidification or single crystal material growth in equipment specified by 9B001.a or 9B001.c;"
-9D004.e,"e. 'Software' 'specially designed' or modified for the operation of items specified by 9A012;"
-9D004.f,"f. 'Software' 'specially designed' to design the internal cooling passages of aero gas turbine engine blades, vanes and 'tip shrouds';"
-9D004.g,"g. 'Software' having all of the following:"
-9D004.g.1,g.1. 'Specially designed' to predict aero thermal, aeromechanical and combustion conditions in aero gas turbine engines; 
+9D004.c,"c. “Software” “specially designed” to control directional solidification or single crystal material growth in equipment specified by 9B001.a or 9B001.c;"
+9D004.e,"e. “Software” “specially designed” or modified for the operation of items specified by 9A012;"
+9D004.f,"f. “Software” “specially designed” to design the internal cooling passages of aero gas turbine engine blades, vanes and “tip shrouds”;"
+9D004.g,"g. “Software” having all of the following:"
+9D004.g.1,g.1. “Specially designed” to predict aero thermal, aeromechanical and combustion conditions in aero gas turbine engines; 
 9D004.g.2,"g.2. Theoretical modeling predictions of the aero thermal, aeromechanical and combustion conditions, which have been validated with actual turbine engine (experimental or production) performance data."
-9D005,9D005 'Software' Specially Designed or Modified for the Operation of Items Specified by 9A004.e or 9A004.f. (This 'Software' Is Controlled by ECCN 9D515.)
-9D018,9D018 'Software' for the 'use' of equipment controlled by 9A018.
-9D101,9D101 'Software' 'specially designed' or modified for the 'use' of commodities controlled by 9B104, 9B105, 9B106, 9B116, or 9B117.
-9D103,9D103 'Software' 'specially designed' for modelling, simulation or design integration of 'missiles,' or the subsystems controlled by 9A005, 9A007, 9A009, 9A105, 9A106, 9A107, 9A108, 9A109, 9A116 or 9A119. (This entry is 'subject to the ITAR.' See 22 CFR parts 120 through 130.)
-9D104,9D104 'Software' specially designed or modified for the 'use' of equipment controlled by ECCN 9A001, 9A012 (for MT controlled items only), 9A101 (except for items in 9A101.b that are 'subject to the ITAR', see 22 CFR part 121), or 9A106.d.
-9D105,9D105 'Software' that coordinates the function of more than one subsystem, 'specially designed' or modified for 'use' in rockets, missiles, or unmanned aerial vehicles capable of achieving a 'range' equal to or greater than 300 km. (These items are 'subject to the ITAR.' See 22 CFR parts 120 through 130.)
-9D515,9D515 'Software' 'specially designed' for the 'development,' 'production,' operation, installation, maintenance, repair, overhaul, or refurbishing of 'spacecraft' and related commodities, as follows (see List of Items Controlled).
-9D515.a,"a. 'Software' (other than 'software' controlled in paragraphs .b, .d, or .e of this entry) 'specially designed' for the 'development,' 'production,' operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by ECCN 9A515 (except 9A515.d or .e) or 9B515."
-9D515.b,"b. 'Source code' that:"
-9D515.b.1,"b.1. Contains the algorithms or control principles ( for clock management), precise orbit determination ( for ephemeris or pseudo range analysis), signal construct ( pseudo-random noise (PRN) anti-spoofing) 'specially designed' for items controlled by ECCN 9A515;"
-9D515.b.2,"b.2. Is 'specially designed' for the integration, operation, or control of items controlled by ECCN 9A515;"
-9D515.b.3,"b.3. Contains algorithms or modules 'specially designed' for system, subsystem, component, part, or accessory calibration, manipulation, or control of items controlled by ECCN 9A515;"
-9D515.b.4,"b.4. Is 'specially designed' for data assemblage, extrapolation, or manipulation of items controlled by ECCN 9A515;"
-9D515.b.5,"b.5. Contains the algorithms or control laws 'specially designed' for attitude, position, or flight control of items controlled in ECCN 9A515; or"
-9D515.b.6,"b.6. Is 'specially designed 'for built-in test and diagnostics for items controlled by ECCN 9A515."
-9D515.d,"d. 'Software' 'specially designed' for the 'development,' 'production,' operation, failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.d."
-9D515.e,"e. 'Software' 'specially designed' for the 'development,' 'production,' operation, failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.e."
-9D515.y,"y. Specific 'software' 'specially designed' for the 'development,' 'production,' operation, or maintenance of commodities enumerated in ECCN 9A515.y."
-9D604,9D604 'Software' 'specially designed' for the 'development,' 'production,' operation, or maintenance of commodities controlled by ECCN 9A604 or 9B604 (see List of Items Controlled).
-9D604.a," a. 'Software' 'specially designed' for the 'development,' 'production,' operation or maintenance of commodities controlled by ECCN 9A604 or ECCN 9B604."
-9D610,9D610 Software 'specially designed' for the 'development,' 'production,' operation, or maintenance of military aircraft and related commodities controlled by 9A610, equipment controlled by 9B610, or materials controlled by 9C610 (see List of Items Controlled).
-9D610.a,"a. 'Software' (other than software controlled in paragraphs .b or .y of this entry) 'specially designed' for the 'development,' 'production,' operation, or maintenance of commodities controlled by ECCN 9A610, ECCN 9B610, or ECCN 9C610."
-9D610.b,"b. 'Software' 'specially designed' for the 'development' or 'production' of any of the following:"
+9D005,9D005 “Software” Specially Designed or Modified for the Operation of Items Specified by 9A004.e or 9A004.f. (This “Software” Is Controlled by ECCN 9D515.)
+9D018,9D018 “Software” for the “use” of equipment controlled by 9A018.
+9D101,9D101 “Software” “specially designed” or modified for the “use” of commodities controlled by 9B104, 9B105, 9B106, 9B116, or 9B117.
+9D103,9D103 “Software” “specially designed” for modelling, simulation or design integration of “missiles,” or the subsystems controlled by 9A005, 9A007, 9A009, 9A105, 9A106, 9A107, 9A108, 9A109, 9A116 or 9A119. (This entry is “subject to the ITAR.” See 22 CFR parts 120 through 130.)
+9D104,9D104 “Software” specially designed or modified for the “use” of equipment controlled by ECCN 9A001, 9A012 (for MT controlled items only), 9A101 (except for items in 9A101.b that are “subject to the ITAR”, see 22 CFR part 121), or 9A106.d.
+9D105,9D105 “Software” that coordinates the function of more than one subsystem, “specially designed” or modified for “use” in rockets, missiles, or unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)
+9D515,9D515 “Software” “specially designed” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of “spacecraft” and related commodities, as follows (see List of Items Controlled).
+9D515.a,"a. “Software” (other than “software” controlled in paragraphs .b, .d, or .e of this entry) “specially designed” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by ECCN 9A515 (except 9A515.d or .e) or 9B515."
+9D515.b,"b. “Source code” that:"
+9D515.b.1,"b.1. Contains the algorithms or control principles ( for clock management), precise orbit determination ( for ephemeris or pseudo range analysis), signal construct ( pseudo-random noise (PRN) anti-spoofing) “specially designed” for items controlled by ECCN 9A515;"
+9D515.b.2,"b.2. Is “specially designed” for the integration, operation, or control of items controlled by ECCN 9A515;"
+9D515.b.3,"b.3. Contains algorithms or modules “specially designed” for system, subsystem, component, part, or accessory calibration, manipulation, or control of items controlled by ECCN 9A515;"
+9D515.b.4,"b.4. Is “specially designed” for data assemblage, extrapolation, or manipulation of items controlled by ECCN 9A515;"
+9D515.b.5,"b.5. Contains the algorithms or control laws “specially designed” for attitude, position, or flight control of items controlled in ECCN 9A515; or"
+9D515.b.6,"b.6. Is “specially designed “for built-in test and diagnostics for items controlled by ECCN 9A515."
+9D515.d,"d. “Software” “specially designed” for the “development,” “production,” operation, failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.d."
+9D515.e,"e. “Software” “specially designed” for the “development,” “production,” operation, failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.e."
+9D515.y,"y. Specific “software” “specially designed” for the “development,” “production,” operation, or maintenance of commodities enumerated in ECCN 9A515.y."
+9D604,9D604 “Software” “specially designed” for the “development,” “production,” operation, or maintenance of commodities controlled by ECCN 9A604 or 9B604 (see List of Items Controlled).
+9D604.a," a. “Software” “specially designed” for the “development,” “production,” operation or maintenance of commodities controlled by ECCN 9A604 or ECCN 9B604."
+9D610,9D610 Software “specially designed” for the “development,” “production,” operation, or maintenance of military aircraft and related commodities controlled by 9A610, equipment controlled by 9B610, or materials controlled by 9C610 (see List of Items Controlled).
+9D610.a,"a. “Software” (other than software controlled in paragraphs .b or .y of this entry) “specially designed” for the “development,” “production,” operation, or maintenance of commodities controlled by ECCN 9A610, ECCN 9B610, or ECCN 9C610."
+9D610.b,"b. “Software” “specially designed” for the “development” or “production” of any of the following:"
 9D610.b.1,"b.1. Static structural members;"
 9D610.b.2,"b.2. Exterior skins, removable fairings, non-removable fairings, radomes, access doors and panels, and in-flight opening doors;"
 9D610.b.3,"b.3. Control surfaces, leading edges, trailing edges, and leading edge flap seals;"
-9D610.b.4,"b.4. Leading edge flap actuation system commodities ( power drive units, rotary geared actuators, torque tubes, asymmetry brakes, position sensors, and angle gearboxes) 'specially designed' for fighter, attack, or bomber aircraft controlled in USML Category VIII;"
+9D610.b.4,"b.4. Leading edge flap actuation system commodities ( power drive units, rotary geared actuators, torque tubes, asymmetry brakes, position sensors, and angle gearboxes) “specially designed” for fighter, attack, or bomber aircraft controlled in USML Category VIII;"
 9D610.b.5,"b.5. Engine inlets and ducting;"
-9D610.b.6,"b.6. Fatigue life monitoring systems 'specially designed' to relate actual usage to the analytical or design spectrum and to compute amount of fatigue life 'specially designed' for aircraft controlled by either USML subcategory VIII(a) or ECCN 9A610.a, except for Military Commercial Derivative Aircraft;"
-9D610.b.7,"b.7. Landing gear, and 'parts' and 'components' 'specially designed' therefor, 'specially designed' for use in aircraft weighing more than 21,000 pounds controlled by either USML subcategory VIII(a) or ECCN 9A610.a, except for Military Commercial Derivative Aircraft;"
-9D610.b.8,"b.8. Conformal fuel tanks and 'parts' and 'components' 'specially designed' therefor;"
-9D610.b.9,"b.9. Electrical 'equipment,' 'parts,' and 'components' 'specially designed' for electro-magnetic interference (EMI)— conducted emissions, radiated emissions, conducted susceptibility and radiated susceptibility—protection of aircraft that conform to the requirements of MIL-STD-461;"
-9D610.b.10,"b.10. HOTAS (Hand-on Throttle and Stick) controls, HOCAS (Hands on Collective and Stick), Active Inceptor Systems ( a combination of Active Side Stick Control Assembly, Active Throttle Quadrant Assembly, and Inceptor Control Unit), rudder pedal assemblies for digital flight control systems, and parts and components 'specially designed' therefor;"
+9D610.b.6,"b.6. Fatigue life monitoring systems “specially designed” to relate actual usage to the analytical or design spectrum and to compute amount of fatigue life “specially designed” for aircraft controlled by either USML subcategory VIII(a) or ECCN 9A610.a, except for Military Commercial Derivative Aircraft;"
+9D610.b.7,"b.7. Landing gear, and “parts” and “components” “specially designed” therefor, “specially designed” for use in aircraft weighing more than 21,000 pounds controlled by either USML subcategory VIII(a) or ECCN 9A610.a, except for Military Commercial Derivative Aircraft;"
+9D610.b.8,"b.8. Conformal fuel tanks and “parts” and “components” “specially designed” therefor;"
+9D610.b.9,"b.9. Electrical “equipment,” “parts,” and “components” “specially designed” for electro-magnetic interference (EMI)— conducted emissions, radiated emissions, conducted susceptibility and radiated susceptibility—protection of aircraft that conform to the requirements of MIL-STD-461;"
+9D610.b.10,"b.10. HOTAS (Hand-on Throttle and Stick) controls, HOCAS (Hands on Collective and Stick), Active Inceptor Systems ( a combination of Active Side Stick Control Assembly, Active Throttle Quadrant Assembly, and Inceptor Control Unit), rudder pedal assemblies for digital flight control systems, and parts and components “specially designed” therefor;"
 9D610.b.11,"b.11. Integrated Vehicle Health Management Systems (IVHMS), Condition Based Maintenance (CBM) Systems, and Flight Data Monitoring (FDM) systems;"
-9D610.b.12,"b.12. Equipment 'specially designed' for system prognostic and health management of aircraft;"
+9D610.b.12,"b.12. Equipment “specially designed” for system prognostic and health management of aircraft;"
 9D610.b.13,"b.13. Active Vibration Control Systems; or"
-9D610.b.14,"b.14. Self-sealing fuel bladders 'specially designed' to pass a .50 caliber or larger gunfire test (MIL-DTL-5578, MIL-DTL-27422)."
-9D610.y,"y. Specific 'software' 'specially designed' for the 'development,' 'production,' operation, or maintenance of commodities enumerated in ECCN 9A610.y."
-9D619,9D619 Software 'specially designed' for the 'development,' 'production,' operation or maintenance of military gas turbine engines and related commodities controlled by 9A619, equipment controlled by 9B619, or materials controlled by 9C619 (see List of Items Controlled).
-9D619.a,"a. 'Software' (other than software controlled in paragraph .b of this entry) 'specially designed' for the 'development,' 'production,' operation, or maintenance of commodities controlled by ECCN 9A619 (except 9A619.y), ECCN 9B619 (except 9B619.y), or ECCN 9C619."
-9D619.b,"b. 'Software' 'specially designed' for the 'development' or 'production' of any of the following:"
+9D610.b.14,"b.14. Self-sealing fuel bladders “specially designed” to pass a .50 caliber or larger gunfire test (MIL-DTL-5578, MIL-DTL-27422)."
+9D610.y,"y. Specific “software” “specially designed” for the “development,” “production,” operation, or maintenance of commodities enumerated in ECCN 9A610.y."
+9D619,9D619 Software “specially designed” for the “development,” “production,” operation or maintenance of military gas turbine engines and related commodities controlled by 9A619, equipment controlled by 9B619, or materials controlled by 9C619 (see List of Items Controlled).
+9D619.a,"a. “Software” (other than software controlled in paragraph .b of this entry) “specially designed” for the “development,” “production,” operation, or maintenance of commodities controlled by ECCN 9A619 (except 9A619.y), ECCN 9B619 (except 9B619.y), or ECCN 9C619."
+9D619.b,"b. “Software” “specially designed” for the “development” or “production” of any of the following:"
 9D619.b.1,"b.1. Front, turbine center, and exhaust frames;"
-9D619.b.2,"b.2. Low pressure compressor ( fan) 'components' and 'parts' as follows: nose cones, casings, blades, vanes, spools, shrouds, blisks, shafts and disks;"
-9D619.b.3,"b.3. High pressure compressor 'components' and 'parts' as follows: casings, blades, vanes, spools, shrouds, blisks, shafts, disks, and impellers;"
-9D619.b.4,"b.4. Combustor 'components' and 'parts' as follows: casings, fuel nozzles, swirlers, swirler cups, deswirlers, valve injectors, igniters, diffusers, liners, chambers, cowlings, domes and shells;"
-9D619.b.5,"b.5. High pressure turbine 'components' and 'parts' as follows: casings, shafts, disks, blades, vanes, nozzles, and tip shrouds;"
-9D619.b.6,"b.6. Low pressure turbine 'components' and 'parts' as follows: casings, shafts, disks, blades, vanes, nozzles, and tip shrouds;"
-9D619.b.7,"b.7. Augmentor 'components' and 'parts' as follows: casings, flame holders, spray bars, pilot burners, augmentor fuel controls, flaps (external, convergent, and divergent), guide and syncronization rings, and flame detectors and sensors;"
-9D619.b.8,"b.8. Mechanical 'components' and 'parts' as follows: fuel metering units and fuel pump metering units, valves (fuel throttle, main metering, oil flow management), heat exchangers (air/air, fuel/air, fuel/oil), debris monitoring (inlet and exhaust), seals (carbon, labyrinth, brush, balance piston, and knife-edge), permanent magnetic alternator and generator, eddy current sensors;"
+9D619.b.2,"b.2. Low pressure compressor ( fan) “components” and “parts” as follows: nose cones, casings, blades, vanes, spools, shrouds, blisks, shafts and disks;"
+9D619.b.3,"b.3. High pressure compressor “components” and “parts” as follows: casings, blades, vanes, spools, shrouds, blisks, shafts, disks, and impellers;"
+9D619.b.4,"b.4. Combustor “components” and “parts” as follows: casings, fuel nozzles, swirlers, swirler cups, deswirlers, valve injectors, igniters, diffusers, liners, chambers, cowlings, domes and shells;"
+9D619.b.5,"b.5. High pressure turbine “components” and “parts” as follows: casings, shafts, disks, blades, vanes, nozzles, and tip shrouds;"
+9D619.b.6,"b.6. Low pressure turbine “components” and “parts” as follows: casings, shafts, disks, blades, vanes, nozzles, and tip shrouds;"
+9D619.b.7,"b.7. Augmentor “components” and “parts” as follows: casings, flame holders, spray bars, pilot burners, augmentor fuel controls, flaps (external, convergent, and divergent), guide and syncronization rings, and flame detectors and sensors;"
+9D619.b.8,"b.8. Mechanical “components” and “parts” as follows: fuel metering units and fuel pump metering units, valves (fuel throttle, main metering, oil flow management), heat exchangers (air/air, fuel/air, fuel/oil), debris monitoring (inlet and exhaust), seals (carbon, labyrinth, brush, balance piston, and knife-edge), permanent magnetic alternator and generator, eddy current sensors;"
 9D619.b.9,"b.9. Torquemeter assembly ( housing, shaft, reference shaft, and sleeve);"
-9D619.b.10,"b.10. Digital engine control systems ( Full Authority Digital Engine Controls (FADEC) and Digital Electronic Engine Controls (DEEC)) 'specially designed' for gas turbine engines controlled in this ECCN; or"
-9D619.b.11,"b.11. Engine monitoring systems ( prognostics, diagnostics, and health) 'specially designed' for gas turbine engines and components controlled in this ECCN."
-9D619.y,"y. Specific 'software' 'specially designed' for the 'development,' 'production,' operation, or maintenance of commodities enumerated in ECCN 9A619.y or 9B619.y."
-9D620,9D620 'Software' 'specially designed' for cryogenic and 'superconductive' equipment, as follows (see List of Items Controlled).
-9D990,9D990 'Software', n.e.s., for the 'development' or 'production' of equipment controlled by 9A990 or 9B990.
-9D991,9D991 'Software', for the 'development' or 'production' of equipment controlled by 9A991 or 9B991.
-9E,"E. 'Technology'"
-9E001,9E001 'Technology' according to the General Technology Note for the 'development' of equipment or 'software', controlled by 9A004, 9A012, 9B (except for ECCNs 9B604, 9B610, 9B619, 9B990 and 9B991), or ECCN 9D001 to 9D004, 9D101, or 9D104.
-9E002,9E002 'Technology' according to the General Technology Note for the 'production' of 'equipment' controlled by ECCN 9A004 or 9B (except for ECCNs 9B117, 9B604, 9B610, 9B619, 9B990, and 9B991).
-9E003,9E003 Other 'technology' as follows (see List of Items Controlled).
-9E003.a,"a. 'Technology' 'required' for the 'development' or 'production' of any of the following gas turbine engine 'parts,' 'components' or systems:"
-9E003.a.1,"a.1. Gas turbine blades, vanes or 'tip shrouds', made from Directionally Solidified (DS) or Single Crystal (SC) alloys and having (in the 001 Miller Index Direction) a stress-rupture life exceeding 400 hours at 1,273 K (1,000 °C) at a stress of 200 MPa, based on the average property values;"
+9D619.b.10,"b.10. Digital engine control systems ( Full Authority Digital Engine Controls (FADEC) and Digital Electronic Engine Controls (DEEC)) “specially designed” for gas turbine engines controlled in this ECCN; or"
+9D619.b.11,"b.11. Engine monitoring systems ( prognostics, diagnostics, and health) “specially designed” for gas turbine engines and components controlled in this ECCN."
+9D619.y,"y. Specific “software” “specially designed” for the “development,” “production,” operation, or maintenance of commodities enumerated in ECCN 9A619.y or 9B619.y."
+9D620,9D620 “Software” “specially designed” for cryogenic and “superconductive” equipment, as follows (see List of Items Controlled).
+9D990,9D990 “Software”, n.e.s., for the “development” or “production” of equipment controlled by 9A990 or 9B990.
+9D991,9D991 “Software”, for the “development” or “production” of equipment controlled by 9A991 or 9B991.
+9E,"E. “Technology”"
+9E001,9E001 “Technology” according to the General Technology Note for the “development” of equipment or “software”, controlled by 9A004, 9A012, 9B (except for ECCNs 9B604, 9B610, 9B619, 9B990 and 9B991), or ECCN 9D001 to 9D004, 9D101, or 9D104.
+9E002,9E002 “Technology” according to the General Technology Note for the “production” of “equipment” controlled by ECCN 9A004 or 9B (except for ECCNs 9B117, 9B604, 9B610, 9B619, 9B990, and 9B991).
+9E003,9E003 Other “technology” as follows (see List of Items Controlled).
+9E003.a,"a. “Technology” “required” for the “development” or “production” of any of the following gas turbine engine “parts,” “components” or systems:"
+9E003.a.1,"a.1. Gas turbine blades, vanes or “tip shrouds”, made from Directionally Solidified (DS) or Single Crystal (SC) alloys and having (in the 001 Miller Index Direction) a stress-rupture life exceeding 400 hours at 1,273 K (1,000 °C) at a stress of 200 MPa, based on the average property values;"
 9E003.a.2,"a.2. Combustors having any of the following:"
 9E003.a.2.a,"a.2.a. 'Thermally decoupled liners' designed to operate at 'combustor exit temperature' exceeding 1,883 K (1,610 °C);"
 9E003.a.2.b,"a.2.b. Non-metallic liners;"
 9E003.a.2.c,a.2.c. Non-metallic shells; 
 9E003.a.2.d,"a.2.d. Liners designed to operate at 'combustor exit temperature' exceeding 1,883 K (1,610 °C) and having holes that meet the parameters specified by 9E003.c;"
 9E003.a.2.e,"a.2.e. Utilizing 'pressure gain combustion';"
-9E003.a.3,"a.3. 'Parts' or 'components,' that are any of the following:"
-9E003.a.3.a,"a.3.a. Manufactured from organic 'composite' materials designed to operate above 588 K (315 °C);"
+9E003.a.3,"a.3. “Parts” or “components,” that are any of the following:"
+9E003.a.3.a,"a.3.a. Manufactured from organic “composite” materials designed to operate above 588 K (315 °C);"
 9E003.a.3.b,"a.3.b. Manufactured from any of the following:"
-9E003.a.3.b.1,"a.3.b.1. Metal 'matrix' 'composites' reinforced by any of the following:"
+9E003.a.3.b.1,"a.3.b.1. Metal “matrix” “composites” reinforced by any of the following:"
 9E003.a.3.b.1.a,"a.3.b.1.a. Materials controlled by 1C007;"
-9E003.a.3.b.1.b,a.3.b.1.b. 'Fibrous or filamentary materials' specified by 1C010; 
+9E003.a.3.b.1.b,a.3.b.1.b. “Fibrous or filamentary materials” specified by 1C010; 
 9E003.a.3.b.1.c,a.3.b.1.c. Aluminides specified by 1C002.a; 
-9E003.a.3.b.2,a.3.b.2. Ceramic 'matrix' 'composites' specified by 1C007; 
+9E003.a.3.b.2,a.3.b.2. Ceramic “matrix” “composites” specified by 1C007; 
 9E003.a.3.c,"a.3.c. Stators, vanes, blades, tip seals (shrouds), rotating blings, rotating blisks or 'splitter ducts', that are all of the following:"
 9E003.a.3.c.1,"a.3.c.1. Not specified in 9E003.a.3.a;"
 9E003.a.3.c.2,a.3.c.2. Designed for compressors or fans; 
 9E003.a.3.c.3,"a.3.c.3. Manufactured from material controlled by 1C010.e with resins controlled by 1C008;"
-9E003.a.4,"a.4. Uncooled turbine blades, vanes or 'tip shrouds' designed to operate at a 'gas path temperature' of 1,373 K (1,100 °C) or more;"
-9E003.a.5,"a.5. Cooled turbine blades, vanes or 'tip shrouds', other than those described in 9E003.a.1, designed to operate at a 'gas path temperature' of 1,693 K (1,420 °C) or more;"
+9E003.a.4,"a.4. Uncooled turbine blades, vanes or “tip shrouds” designed to operate at a 'gas path temperature' of 1,373 K (1,100 °C) or more;"
+9E003.a.5,"a.5. Cooled turbine blades, vanes or “tip shrouds”, other than those described in 9E003.a.1, designed to operate at a 'gas path temperature' of 1,693 K (1,420 °C) or more;"
 9E003.a.6,"a.6. Airfoil-to-disk blade combinations using solid state joining;"
-9E003.a.8,a.8. 'Damage tolerant' gas turbine engine rotor 'parts' or 'components' using powder metallurgy materials controlled by 1C002.b; 
+9E003.a.8,a.8. 'Damage tolerant' gas turbine engine rotor “parts” or “components” using powder metallurgy materials controlled by 1C002.b; 
 9E003.a.11,"a.11. 'Fan blades' having all of the following:"
 9E003.a.11.a,a.11.a. 20% or more of the total volume being one or more closed cavities containing vacuum or gas only; 
 9E003.a.11.b,"a.11.b. One or more closed cavities having a volume of 5 cm or larger;"
-9E003.b,"b. 'Technology' 'required' for the 'development' or 'production' of any of the following:"
+9E003.b,"b. “Technology” “required” for the “development” or “production” of any of the following:"
 9E003.b.1,b.1. Wind tunnel aero-models equipped with non-intrusive sensors capable of transmitting data from the sensors to the data acquisition system; 
-9E003.b.2,"b.2. 'Composite' propeller blades or prop-fans, capable of absorbing more than 2,000 kW at flight speeds exceeding Mach 0.55;"
-9E003.c,"c. 'Technology' 'required' for manufacturing cooling holes in gas turbine engine 'parts' or 'components' incorporating any of the 'technologies' specified by 9E003.a.1, 9E003.a.2, or 9E003.a.5, and having any of the following:"
+9E003.b.2,"b.2. “Composite” propeller blades or prop-fans, capable of absorbing more than 2,000 kW at flight speeds exceeding Mach 0.55;"
+9E003.c,"c. “Technology” “required” for manufacturing cooling holes in gas turbine engine “parts” or “components” incorporating any of the “technologies” specified by 9E003.a.1, 9E003.a.2, or 9E003.a.5, and having any of the following:"
 9E003.c.1,"c.1. Having all of the following:"
 9E003.c.1.a,"c.1.a. Minimum 'cross-sectional area' less than 0.45 mm;"
 9E003.c.1.b,c.1.b. 'Hole shape ratio' greater than 4.52; 
@@ -437,98 +438,98 @@ Id,Description
 9E003.c.2.a,"c.2.a. Minimum 'cross-sectional area' less than 0.12 mm;"
 9E003.c.2.b,c.2.b. 'Hole shape ratio' greater than 5.65; 
 9E003.c.2.c,"c.2.c. 'Incidence angle' more than 25°;"
-9E003.d,"d. 'Technology' 'required' for the 'development' or 'production' of helicopter power transfer systems or tilt rotor or tilt wing 'aircraft' power transfer systems;"
-9E003.e,"e. 'Technology' for the 'development' or 'production' of reciprocating diesel engine ground vehicle propulsion systems having all of the following:"
+9E003.d,"d. “Technology” “required” for the “development” or “production” of helicopter power transfer systems or tilt rotor or tilt wing “aircraft” power transfer systems;"
+9E003.e,"e. “Technology” for the “development” or “production” of reciprocating diesel engine ground vehicle propulsion systems having all of the following:"
 9E003.e.1,"e.1. 'Box volume' of 1.2 m or less;"
 9E003.e.2,e.2. An overall power output of more than 750 kW based on 80/1269/EEC, ISO 2534 or national equivalents; 
 9E003.e.3,"e.3. Power density of more than 700 kW/m of 'box volume';"
-9E003.f,"f. 'Technology' 'required' for the 'production' of 'specially designed' 'parts' or 'components' for high output diesel engines, as follows:"
-9E003.f.1,"f.1. 'Technology' 'required' for the 'production' of engine systems having all of the following 'parts' and 'components' employing ceramics materials controlled by 1C007:"
+9E003.f,"f. “Technology” “required” for the “production” of “specially designed” “parts” or “components” for high output diesel engines, as follows:"
+9E003.f.1,"f.1. “Technology” “required” for the “production” of engine systems having all of the following “parts” and “components” employing ceramics materials controlled by 1C007:"
 9E003.f.1.a,"f.1.a Cylinder liners;"
 9E003.f.1.b,"f.1.b. Pistons;"
 9E003.f.1.c,f.1.c. Cylinder heads; 
-9E003.f.1.d,"f.1.d. One or more other 'part' or 'component' (including exhaust ports, turbochargers, valve guides, valve assemblies or insulated fuel injectors);"
-9E003.f.2,"f.2. 'Technology' 'required' for the 'production' of turbocharger systems with single-stage compressors and having all of the following:"
+9E003.f.1.d,"f.1.d. One or more other “part” or “component” (including exhaust ports, turbochargers, valve guides, valve assemblies or insulated fuel injectors);"
+9E003.f.2,"f.2. “Technology” “required” for the “production” of turbocharger systems with single-stage compressors and having all of the following:"
 9E003.f.2.a,"f.2.a. Operating at pressure ratios of 4:1 or higher;"
 9E003.f.2.b,f.2.b. Mass flow in the range from 30 to 130 kg per minute; 
 9E003.f.2.c,"f.2.c. Variable flow area capability within the compressor or turbine sections;"
-9E003.f.3,"f.3. 'Technology' 'required' for the 'production' of fuel injection systems with a 'specially designed' multifuel ( diesel or jet fuel) capability covering a viscosity range from diesel fuel (2.5 cSt at 310.8 K (37.8 °C)) down to gasoline fuel (0.5 cSt at 310.8 K (37.8 °C)) and having all of the following:"
+9E003.f.3,"f.3. “Technology” “required” for the “production” of fuel injection systems with a “specially designed” multifuel ( diesel or jet fuel) capability covering a viscosity range from diesel fuel (2.5 cSt at 310.8 K (37.8 °C)) down to gasoline fuel (0.5 cSt at 310.8 K (37.8 °C)) and having all of the following:"
 9E003.f.3.a,"f.3.a. Injection amount in excess of 230 mm per injection per cylinder; "
-9E003.f.3.b,"f.3.b. Electronic control features 'specially designed' for switching governor characteristics automatically depending on fuel property to provide the same torque characteristics by using the appropriate sensors;"
-9E003.g,"g. 'Technology' 'required' for the 'development' or 'production' of 'high output diesel engines' for solid, gas phase or liquid film (or combinations thereof) cylinder wall lubrication and permitting operation to temperatures exceeding 723 K (450 °C), measured on the cylinder wall at the top limit of travel of the top ring of the piston;"
-9E003.h,"h. 'Technology' for gas turbine engine 'FADEC systems' as follows:"
-9E003.h.1,"h.1. 'Development' 'technology' for deriving the functional requirements for the 'parts' or 'components' necessary for the 'FADEC system' to regulate engine thrust or shaft power ( feedback sensor time constants and accuracies, fuel valve slew rate);"
-9E003.h.2,"h.2. 'Development' or 'production' 'technology' for control and diagnostic 'parts' or 'components' unique to the 'FADEC system' and used to regulate engine thrust or shaft power;"
-9E003.h.3,"h.3. 'Development' 'technology' for the control law algorithms, including 'source code', unique to the 'FADEC system' and used to regulate engine thrust or shaft power;"
-9E003.i,"i. 'Technology' for adjustable flow path systems designed to maintain engine stability for gas generator turbines, fan or power turbines, or propelling nozzles, as follows:"
-9E003.i.1,"i.1. 'Development' 'technology' for deriving the functional requirements for the 'parts' or 'components' that maintain engine stability;"
-9E003.i.2,"i.2. 'Development' or 'production' 'technology' for 'parts' or 'components' unique to the adjustable flow path system and that maintain engine stability;"
-9E003.i.3,"i.3. 'Development' 'technology' for the control law algorithms, including 'source code', unique to the adjustable flow path system and that maintain engine stability;"
-9E003.j,"j. 'Technology' 'required' for the 'development' of wing-folding systems designed for fixed-wing 'aircraft' powered by gas turbine engines."
-9E003.k,"k. 'Technology', not specified in 9E003.a, 9E003.h, or 9E003.i, 'required' for the 'development' of any of the following components or systems, 'specially designed' for aero gas turbine engines to enable 'aircraft' to cruise at Mach 1 or greater for more than 30 minutes:"
+9E003.f.3.b,"f.3.b. Electronic control features “specially designed” for switching governor characteristics automatically depending on fuel property to provide the same torque characteristics by using the appropriate sensors;"
+9E003.g,"g. “Technology” “required” for the “development” or “production” of 'high output diesel engines' for solid, gas phase or liquid film (or combinations thereof) cylinder wall lubrication and permitting operation to temperatures exceeding 723 K (450 °C), measured on the cylinder wall at the top limit of travel of the top ring of the piston;"
+9E003.h,"h. “Technology” for gas turbine engine “FADEC systems” as follows:"
+9E003.h.1,"h.1. “Development” “technology” for deriving the functional requirements for the “parts” or “components” necessary for the “FADEC system” to regulate engine thrust or shaft power ( feedback sensor time constants and accuracies, fuel valve slew rate);"
+9E003.h.2,"h.2. “Development” or “production” “technology” for control and diagnostic “parts” or “components” unique to the “FADEC system” and used to regulate engine thrust or shaft power;"
+9E003.h.3,"h.3. “Development” “technology” for the control law algorithms, including “source code”, unique to the “FADEC system” and used to regulate engine thrust or shaft power;"
+9E003.i,"i. “Technology” for adjustable flow path systems designed to maintain engine stability for gas generator turbines, fan or power turbines, or propelling nozzles, as follows:"
+9E003.i.1,"i.1. “Development” “technology” for deriving the functional requirements for the “parts” or “components” that maintain engine stability;"
+9E003.i.2,"i.2. “Development” or “production” “technology” for “parts” or “components” unique to the adjustable flow path system and that maintain engine stability;"
+9E003.i.3,"i.3. “Development” “technology” for the control law algorithms, including “source code”, unique to the adjustable flow path system and that maintain engine stability;"
+9E003.j,"j. “Technology” “required” for the “development” of wing-folding systems designed for fixed-wing “aircraft” powered by gas turbine engines."
+9E003.k,"k. “Technology”, not specified in 9E003.a, 9E003.h, or 9E003.i, “required” for the “development” of any of the following components or systems, “specially designed” for aero gas turbine engines to enable “aircraft” to cruise at Mach 1 or greater for more than 30 minutes:"
 9E003.k.1,"k.1. Propulsion inlet systems;"
 9E003.k.2,"k.2. Propulsion exhaust systems;"
 9E003.k.3,"k.3. 'Reheat systems';"
 9E003.k.4,"k.4. 'Active thermal management systems' to condition fluids used to lubricate or cool 'engine rotor supports';"
 9E003.k.5,"k.5. Oil-free 'engine rotor supports'; or"
 9E003.k.6,"k.6. Systems to remove heat from 'compression system' core gas path flow."
-9E003.l,"l. 'Technology' not otherwise controlled in 9E003.a.1 through a.8, a.10, and .h and used in the 'development', 'production', or overhaul of hot section 'parts' or 'components' of civil derivatives of military engines controlled on the U.S. Munitions List."
-9E018,9E018 'Technology' for the 'development,' 'production,' or 'use' of equipment controlled by 9A018.
-9E101,9E101 'Technology' according to the General Technology Note for the 'development' or 'production' of commodities or 'software' controlled by ECCN 9A012 (applies only to 'production' 'technology' for MT-controlled items in 9A012), 9A101 (except for items in 9A101.b that are 'subject to the ITAR,' see 22 CFR part 121), 9A106.d or .e, 9A110 (for items that are 'specially designed' for non-military unmanned aerial vehicles controlled by 9A012), 9C110, 9D101, or 9D104.
-9E102,9E102 'Technology' according to the General Technology Note for the 'use' of commodities or 'software' controlled by ECCN 9A004 (except for items in 9A004 that are 'subject to the ITAR,' see 22 CFR part 121), 9A012, 9A101 (except for items in 9A101.b that are 'subject to the ITAR,' see 22 CFR part 121), 9A106.d or .e, 9A110 (for items that are 'specially designed' for non-military unmanned aerial vehicles controlled by 9A012), 9B105, 9B106, 9B115, 9B116, 9D101, or 9D104.
-9E515,9E515 'Technology' 'required' for the 'development,' 'production,' operation, installation, repair, overhaul, or refurbishing of 'spacecraft' and related commodities, as follows (see List of Items Controlled).
-9E515.a,"a. 'Technology' 'required' for the 'development,' 'production,' installation, repair (including on-orbit anomaly resolution and analysis beyond established procedures), overhaul, or refurbishing of commodities controlled by ECCN 9A515 (except 9A515.a.1, .a.2, .a.3, .a.4, .b, .d, .e, or .g), ECCN 9B515, or 'software' controlled by ECCN 9D515.a."
-9E515.b,"b. 'Technology' 'required' for the 'development,' 'production,' failure analysis or anomaly resolution of software controlled by ECCN 9D515.b."
-9E515.d,"d. 'Technology' 'required' for the 'development,' 'production,' operation, failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.d."
-9E515.e,"e. 'Technology' 'required' for the 'development,' 'production,' failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.e."
-9E515.f,"f. 'Technology' 'required' for the 'development,' 'production,' installation, repair (including on-orbit anomaly resolution and analysis beyond established procedures), overhaul, or refurbishing of commodities controlled by ECCN 9A515.a.1, .a.2, .a.3, .a.4, or .g."
-9E515.y,"y. Specific 'technology' 'required' for the 'production,' 'development,' operation, installation, maintenance, repair, overhaul, or refurbishing of commodities or software enumerated in ECCN 9A515.y or 9D515.y."
-9E604,9E604 'Technology' 'required' for the 'development,' 'production,' operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by ECCN 9A604 or 9B604, or 'software' controlled by ECCN 9D604 (see List of Items Controlled).
-9E604.a," a. 'Technology' 'required' for the 'development,' 'production,' operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by ECCN 9A604 or 9B604, or 'software' controlled by ECCN 9D604."
-9E610,9E610 Technology 'required' for the 'development,' 'production,' operation, installation, maintenance, repair, overhaul, or refurbishing of military aircraft and related commodities controlled by 9A610, equipment controlled by 9B610, materials controlled by 9C610, or software controlled by 9D610 (see List of Items Controlled).
-9E610.a,"a. 'Technology' (other than technology controlled by paragraphs .b or .y of this entry) 'required' for the 'development,' 'production,' operation, installation, maintenance, repair, overhaul, or refurbishing of commodities or software controlled by ECCN 9A610, 9B610, 9C610, or 9D610."
-9E610.b,"b. 'Technology' (other than 'build-to-print technology') 'required' for the 'development' or 'production' of any of the following:"
+9E003.l,"l. “Technology” not otherwise controlled in 9E003.a.1 through a.8, a.10, and .h and used in the “development”, “production”, or overhaul of hot section “parts” or “components” of civil derivatives of military engines controlled on the U.S. Munitions List."
+9E018,9E018 “Technology” for the “development,” “production,” or “use” of equipment controlled by 9A018.
+9E101,9E101 “Technology” according to the General Technology Note for the “development” or “production” of commodities or “software” controlled by ECCN 9A012 (applies only to “production” “technology” for MT-controlled items in 9A012), 9A101 (except for items in 9A101.b that are “subject to the ITAR,” see 22 CFR part 121), 9A106.d or .e, 9A110 (for items that are “specially designed” for non-military unmanned aerial vehicles controlled by 9A012), 9C110, 9D101, or 9D104.
+9E102,9E102 “Technology” according to the General Technology Note for the “use” of commodities or “software” controlled by ECCN 9A004 (except for items in 9A004 that are “subject to the ITAR,” see 22 CFR part 121), 9A012, 9A101 (except for items in 9A101.b that are “subject to the ITAR,” see 22 CFR part 121), 9A106.d or .e, 9A110 (for items that are “specially designed” for non-military unmanned aerial vehicles controlled by 9A012), 9B105, 9B106, 9B115, 9B116, 9D101, or 9D104.
+9E515,9E515 “Technology” “required” for the “development,” “production,” operation, installation, repair, overhaul, or refurbishing of “spacecraft” and related commodities, as follows (see List of Items Controlled).
+9E515.a,"a. “Technology” “required” for the “development,” “production,” installation, repair (including on-orbit anomaly resolution and analysis beyond established procedures), overhaul, or refurbishing of commodities controlled by ECCN 9A515 (except 9A515.a.1, .a.2, .a.3, .a.4, .b, .d, .e, or .g), ECCN 9B515, or “software” controlled by ECCN 9D515.a."
+9E515.b,"b. “Technology” “required” for the “development,” “production,” failure analysis or anomaly resolution of software controlled by ECCN 9D515.b."
+9E515.d,"d. “Technology” “required” for the “development,” “production,” operation, failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.d."
+9E515.e,"e. “Technology” “required” for the “development,” “production,” failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.e."
+9E515.f,"f. “Technology” “required” for the “development,” “production,” installation, repair (including on-orbit anomaly resolution and analysis beyond established procedures), overhaul, or refurbishing of commodities controlled by ECCN 9A515.a.1, .a.2, .a.3, .a.4, or .g."
+9E515.y,"y. Specific “technology” “required” for the “production,” “development,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities or software enumerated in ECCN 9A515.y or 9D515.y."
+9E604,9E604 “Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by ECCN 9A604 or 9B604, or “software” controlled by ECCN 9D604 (see List of Items Controlled).
+9E604.a," a. “Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by ECCN 9A604 or 9B604, or “software” controlled by ECCN 9D604."
+9E610,9E610 Technology “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of military aircraft and related commodities controlled by 9A610, equipment controlled by 9B610, materials controlled by 9C610, or software controlled by 9D610 (see List of Items Controlled).
+9E610.a,"a. “Technology” (other than technology controlled by paragraphs .b or .y of this entry) “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities or software controlled by ECCN 9A610, 9B610, 9C610, or 9D610."
+9E610.b,"b. “Technology” (other than “build-to-print technology”) “required” for the “development” or “production” of any of the following:"
 9E610.b.1,"b.1. Static structural members;"
 9E610.b.2,"b.2. Exterior skins, removable fairings, non-removable fairings, radomes, access doors and panels, and in-flight opening doors;"
 9E610.b.3,"b.3. Control surfaces, leading edges, trailing edges, and leading edge flap seals;"
-9E610.b.4,"b.4. Leading edge flap actuation system commodities ( power drive units, rotary geared actuators, torque tubes, asymmetry brakes, position sensors, and angle gearboxes) 'specially designed' for fighter, attack, or bomber aircraft controlled in USML Category VIII;"
+9E610.b.4,"b.4. Leading edge flap actuation system commodities ( power drive units, rotary geared actuators, torque tubes, asymmetry brakes, position sensors, and angle gearboxes) “specially designed” for fighter, attack, or bomber aircraft controlled in USML Category VIII;"
 9E610.b.5,"b.5. Engine inlets and ducting;"
-9E610.b.6,"b.6. Fatigue life monitoring systems 'specially designed' to relate actual usage to the analytical or design spectrum and to compute amount of fatigue life 'specially designed' for aircraft controlled by either USML subcategory VIII(a) or ECCN 9A610.a, except for Military Commercial Derivative Aircraft;"
-9E610.b.7,"b.7. Landing gear, and 'parts' and 'components' 'specially designed' therefor, 'specially designed' for use in aircraft weighing more than 21,000 pounds controlled by either USML subcategory VIII(a) or ECCN 9A610.a, except for Military Commercial Derivative Aircraft;"
-9E610.b.8,"b.8. Conformal fuel tanks and 'parts' and 'components' 'specially designed' therefor;"
-9E610.b.9,"b.9. Electrical 'equipment,' 'parts,' and 'components' 'specially designed' for electro-magnetic interference (EMI)— conducted emissions, radiated emissions, conducted susceptibility and radiated susceptibility—protection of aircraft that conform to the requirements of MIL-STD-461;"
-9E610.b.10,"b.10. HOTAS (Hand-on Throttle and Stick) controls, HOCAS (Hands on Collective and Stick), Active Inceptor Systems ( a combination of Active Side Stick Control Assembly, Active Throttle Quadrant Assembly, and Inceptor Control Unit), rudder pedal assemblies for digital flight control systems, and parts and components 'specially designed' therefor;"
+9E610.b.6,"b.6. Fatigue life monitoring systems “specially designed” to relate actual usage to the analytical or design spectrum and to compute amount of fatigue life “specially designed” for aircraft controlled by either USML subcategory VIII(a) or ECCN 9A610.a, except for Military Commercial Derivative Aircraft;"
+9E610.b.7,"b.7. Landing gear, and “parts” and “components” “specially designed” therefor, “specially designed” for use in aircraft weighing more than 21,000 pounds controlled by either USML subcategory VIII(a) or ECCN 9A610.a, except for Military Commercial Derivative Aircraft;"
+9E610.b.8,"b.8. Conformal fuel tanks and “parts” and “components” “specially designed” therefor;"
+9E610.b.9,"b.9. Electrical “equipment,” “parts,” and “components” “specially designed” for electro-magnetic interference (EMI)— conducted emissions, radiated emissions, conducted susceptibility and radiated susceptibility—protection of aircraft that conform to the requirements of MIL-STD-461;"
+9E610.b.10,"b.10. HOTAS (Hand-on Throttle and Stick) controls, HOCAS (Hands on Collective and Stick), Active Inceptor Systems ( a combination of Active Side Stick Control Assembly, Active Throttle Quadrant Assembly, and Inceptor Control Unit), rudder pedal assemblies for digital flight control systems, and parts and components “specially designed” therefor;"
 9E610.b.11,"b.11. Integrated Vehicle Health Management Systems (IVHMS), Condition Based Maintenance (CBM) Systems, and Flight Data Monitoring (FDM) systems;"
-9E610.b.12,"b.12. Equipment 'specially designed' for system prognostic and health management of aircraft;"
+9E610.b.12,"b.12. Equipment “specially designed” for system prognostic and health management of aircraft;"
 9E610.b.13,"b.13. Active Vibration Control Systems;"
-9E610.b.14,"b.14. Self-sealing fuel bladders 'specially designed' to pass a .50 caliber or larger gunfire test (MIL-DTL-5578, MIL-DTL-27422); or"
-9E610.b.15,"b.15. Technology 'required' for the 'development' or 'production' of 'parts' or 'components' controlled in 9A610.x and 'specially designed' for damage or failure-adaptive flight control systems controlled in Category VIII(h)(7) of the USML."
-9E610.y,"y. Specific 'technology' 'required' for the 'production,' 'development,' operation, installation, maintenance, repair, overhaul, or refurbishing of commodities or software enumerated in ECCN 9A610.y or 9D610.y."
-9E619,9E619 'Technology' 'required' for the 'development,' 'production,' operation, installation, maintenance, repair, overhaul, or refurbishing of military gas turbine engines and related commodities controlled by 9A619, equipment controlled by 9B619, materials controlled by 9C619, or software controlled by 9D619 (see List of Items Controlled).
-9E619.a,"a. 'Technology' (other than 'technology' controlled by paragraphs .b and .c of this entry) 'required' for the 'development,' 'production,' operation, installation, maintenance, repair, overhaul, or refurbishment of items controlled by ECCN 9A619 (except 9A619.y), ECCN 9B619 (except 9B619.y), ECCN 9C619, or ECCN 9D619 (except 9D619.y)."
-9E619.b,"b. 'Technology' (other than 'build-to-print technology') 'required' for the 'development' or 'production' of any of the following:"
+9E610.b.14,"b.14. Self-sealing fuel bladders “specially designed” to pass a .50 caliber or larger gunfire test (MIL-DTL-5578, MIL-DTL-27422); or"
+9E610.b.15,"b.15. Technology “required” for the “development” or “production” of “parts” or “components” controlled in 9A610.x and “specially designed” for damage or failure-adaptive flight control systems controlled in Category VIII(h)(7) of the USML."
+9E610.y,"y. Specific “technology” “required” for the “production,” “development,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities or software enumerated in ECCN 9A610.y or 9D610.y."
+9E619,9E619 “Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of military gas turbine engines and related commodities controlled by 9A619, equipment controlled by 9B619, materials controlled by 9C619, or software controlled by 9D619 (see List of Items Controlled).
+9E619.a,"a. “Technology” (other than “technology” controlled by paragraphs .b and .c of this entry) “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishment of items controlled by ECCN 9A619 (except 9A619.y), ECCN 9B619 (except 9B619.y), ECCN 9C619, or ECCN 9D619 (except 9D619.y)."
+9E619.b,"b. “Technology” (other than “build-to-print technology”) “required” for the “development” or “production” of any of the following:"
 9E619.b.1,"b.1. Front, turbine center, and exhaust frames;"
-9E619.b.2,"b.2. Low pressure compressor ( fan) 'components' and 'parts' as follows: Nose cones and casings;"
-9E619.b.3,"b.3. High pressure compressor 'components' and 'parts' as follows: Casings;"
-9E619.b.4,"b.4. Combustor 'components' and 'parts' as follows: Casings, fuel nozzles, swirlers, swirler cups, deswirlers, valve injectors, and igniters;"
-9E619.b.5,"b.5. High pressure turbine 'components' and 'parts' as follows: Casings"
-9E619.b.6,"b.6. Low pressure turbine 'components' and 'parts' as follows: Casings;"
-9E619.b.7,"b.7. Augmentor 'components' and 'parts' as follows: Casings, flame holders, spray bars, pilot burners, augmentor fuel controls, flaps (external, convergent, and divergent), guide and syncronization rings, and flame detectors and sensors;"
-9E619.b.8,"b.8. Mechanical 'components' and 'parts' as follows: Fuel metering units and fuel pump metering units, valves (fuel throttle, main metering, oil flow management), heat exchangers (air/air, fuel/air, fuel/oil), debris monitoring (inlet and exhaust), seals (carbon, labyrinth, brush, balance piston, and 'knife-edge'), permanent magnetic alternator and generator, eddy current sensors;"
+9E619.b.2,"b.2. Low pressure compressor ( fan) “components” and “parts” as follows: Nose cones and casings;"
+9E619.b.3,"b.3. High pressure compressor “components” and “parts” as follows: Casings;"
+9E619.b.4,"b.4. Combustor “components” and “parts” as follows: Casings, fuel nozzles, swirlers, swirler cups, deswirlers, valve injectors, and igniters;"
+9E619.b.5,"b.5. High pressure turbine “components” and “parts” as follows: Casings"
+9E619.b.6,"b.6. Low pressure turbine “components” and “parts” as follows: Casings;"
+9E619.b.7,"b.7. Augmentor “components” and “parts” as follows: Casings, flame holders, spray bars, pilot burners, augmentor fuel controls, flaps (external, convergent, and divergent), guide and syncronization rings, and flame detectors and sensors;"
+9E619.b.8,"b.8. Mechanical “components” and “parts” as follows: Fuel metering units and fuel pump metering units, valves (fuel throttle, main metering, oil flow management), heat exchangers (air/air, fuel/air, fuel/oil), debris monitoring (inlet and exhaust), seals (carbon, labyrinth, brush, balance piston, and “knife-edge”), permanent magnetic alternator and generator, eddy current sensors;"
 9E619.b.9,"b.9. Torquemeter assembly ( housing, shaft, reference shaft, and sleeve); or"
 9E619.b.10,"b.10. Materials controlled by ECCN 9C619.b."
-9E619.c,"c. 'Technology' 'required' for the 'development' or 'production' of any of the following:"
-9E619.c.1,"c.1. Low pressure compressor ( fan) 'components' and 'parts' as follows: blades, vanes, spools, shrouds, blisks, shafts and disks;"
-9E619.c.2,"c.2. High pressure compressor 'components' and 'parts' as follows: blades, vanes, spools, shrouds, blisks, shafts, disks, and impellers;"
-9E619.c.3,"c.3. Combustor 'components' and 'parts' as follows: diffusers, liners, chambers, cowlings, domes and shells;"
-9E619.c.4,"c.4. High pressure turbine 'components' and 'parts' as follows: shafts and disks, blades, vanes, nozzles, tip shrouds;"
-9E619.c.5,"c.5. Low pressure turbine 'components' and 'parts' as follows: shafts and disks, blades, vanes, nozzles, tip shrouds;"
-9E619.c.6,"c.6. Digital engine control systems ( Full Authority Digital Engine Controls (FADEC) and Digital Electronic Engine Controls (DEEC)) 'specially designed' for gas turbine engines controlled in this ECCN; or"
-9E619.c.7,"c.7. Engine monitoring systems ( prognostics, diagnostics, and health) 'specially designed' for gas turbine engines and components controlled in this ECCN."
-9E619.y,"y. Specific 'technology' 'required' for the 'development,' 'production,' operation, installation, maintenance, repair, overhaul, or refurbishment of commodities controlled by 9A619.y or 9B619.y, or 'software' controlled by ECCN 9D619.y."
-9E620,9E620 Technology 'required' for cryogenic and 'superconductive' equipment, as follows (see List of Items Controlled).
-9E990,9E990 'Technology', n.e.s., for the 'development' or 'production' or 'use' of equipment controlled by 9A990 or 9B990.
-9E991,9E991 'Technology', for the 'development', 'production' or 'use' of equipment controlled by 9A991 or 9B991.
-9E993,9E993 Other 'technology', not described by 9E003, as follows (see List of Items Controlled).
-9E993.a, a. Rotor blade tip clearance control systems employing active compensating casing 'technology' limited to a design and development data base; 
+9E619.c,"c. “Technology” “required” for the “development” or “production” of any of the following:"
+9E619.c.1,"c.1. Low pressure compressor ( fan) “components” and “parts” as follows: blades, vanes, spools, shrouds, blisks, shafts and disks;"
+9E619.c.2,"c.2. High pressure compressor “components” and “parts” as follows: blades, vanes, spools, shrouds, blisks, shafts, disks, and impellers;"
+9E619.c.3,"c.3. Combustor “components” and “parts” as follows: diffusers, liners, chambers, cowlings, domes and shells;"
+9E619.c.4,"c.4. High pressure turbine “components” and “parts” as follows: shafts and disks, blades, vanes, nozzles, tip shrouds;"
+9E619.c.5,"c.5. Low pressure turbine “components” and “parts” as follows: shafts and disks, blades, vanes, nozzles, tip shrouds;"
+9E619.c.6,"c.6. Digital engine control systems ( Full Authority Digital Engine Controls (FADEC) and Digital Electronic Engine Controls (DEEC)) “specially designed” for gas turbine engines controlled in this ECCN; or"
+9E619.c.7,"c.7. Engine monitoring systems ( prognostics, diagnostics, and health) “specially designed” for gas turbine engines and components controlled in this ECCN."
+9E619.y,"y. Specific “technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishment of commodities controlled by 9A619.y or 9B619.y, or “software” controlled by ECCN 9D619.y."
+9E620,9E620 Technology “required” for cryogenic and “superconductive” equipment, as follows (see List of Items Controlled).
+9E990,9E990 “Technology”, n.e.s., for the “development” or “production” or “use” of equipment controlled by 9A990 or 9B990.
+9E991,9E991 “Technology”, for the “development”, “production” or “use” of equipment controlled by 9A991 or 9B991.
+9E993,9E993 Other “technology”, not described by 9E003, as follows (see List of Items Controlled).
+9E993.a, a. Rotor blade tip clearance control systems employing active compensating casing “technology” limited to a design and development data base; 
 9E993.b,"b. Gas bearing for turbine engine rotor assemblies."
